@@ -2,7 +2,7 @@ import NPC
 import Stats
 
 input_stats = {
-    'hp_level': 100,
+    'hp_level': 2000,
     'def_level': 50,
     'prayer_level': 20,
     'stab_def': 30

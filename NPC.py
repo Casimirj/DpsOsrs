@@ -8,6 +8,7 @@ class NPC:
         if stats == None:
             raise ValueError("Stats cannot be null")
         self.stats = Stats.Stats(stats)
+        self.current_hp = stats.hp_level
 
 
 
@@ -54,6 +55,22 @@ class NPC:
             reduction = min(remaining_damage, self.stats.ranged_level)
             self.stats.ranged_level -= reduction
             remaining_damage -= reduction
+
+
+    def reduce_hp(self, amount):
+        self.current_hp = self.current_hp - damage_amount
+        self.current_hp = self.current_hp if self.current_hp >= 0 else 0
+        return self.current_hp
+
+
+    def is_dead(self):
+        return self.current_hp == 0
+
+
+
+
+
+
 
     def reduce_defense_dwh(self):
         current_def = self.stats.def_level
