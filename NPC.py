@@ -7,7 +7,7 @@ class NPC:
     def __init__(self, stats=None):
         if stats == None:
             raise ValueError("Stats cannot be null")
-        self.stats = Stats(stats)
+        self.stats = Stats.Stats(stats)
 
 
 
