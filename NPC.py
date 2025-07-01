@@ -13,13 +13,47 @@ class NPC:
 
 
     def calc_def_roll(self):
-        def_roll = (self.def_level + 9) * (self.slash_def + 64)
+        def_roll = (self.stats.def_level + 9) * (self.stats.slash_def + 64)
         return def_roll
     
 
-    def reduce_defense(self, amount):
-        self.def_level = self.stats.def_level - amount
-        return self.def_level
+    def reduce_defense(self, damage_amount):
+        self.stats.def_level = self.stats.def_level - damage_amount
+        self.stats.def_level = self.stats.def_level if self.stats.def_level >= 0 else 0
+        return self.stats.def_level
+
+    def reduce_defense_with_bgs(self, damage_amount):
+        remaining_damage = damage_amount
+        # Defense reduction
+        if remaining_damage > 0 and self.stats.def_level > 0:
+            reduction = min(remaining_damage, self.stats.def_level)
+            self.stats.def_level -= reduction
+            remaining_damage -= reduction
+        # Strength reduction
+        if remaining_damage > 0 and self.stats.strength_level > 0:
+            reduction = min(remaining_damage, self.stats.strength_level)
+            self.stats.strength_level -= reduction
+            remaining_damage -= reduction
+        # Prayer reduction
+        if remaining_damage > 0 and self.stats.prayer_level > 0:
+            reduction = min(remaining_damage, self.stats.prayer_level)
+            self.stats.prayer_level -= reduction
+            remaining_damage -= reduction
+        # Attack reduction
+        if remaining_damage > 0 and self.stats.attack_level > 0:
+            reduction = min(remaining_damage, self.stats.attack_level)
+            self.stats.attack_level -= reduction
+            remaining_damage -= reduction
+        # Magic reduction
+        if remaining_damage > 0 and self.stats.magic_level > 0:
+            reduction = min(remaining_damage, self.stats.magic_level)
+            self.stats.magic_level -= reduction
+            remaining_damage -= reduction
+        # Ranged reduction
+        if remaining_damage > 0 and self.stats.ranged_level > 0:
+            reduction = min(remaining_damage, self.stats.ranged_level)
+            self.stats.ranged_level -= reduction
+            remaining_damage -= reduction
 
     def reduce_defense_dwh(self):
         current_def = self.stats.def_level
@@ -34,7 +68,7 @@ class NPC:
 
 
     def reduce_defense_bgs(self, amount):
-        return self.reduce_defense(amount)
+        return self.reduce_defense_with_bgs(amount)
 
 
 

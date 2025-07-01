@@ -4,6 +4,7 @@ import Stats
 input_stats = {
     'hp_level': 100,
     'def_level': 50,
+    'prayer_level': 20,
     'stab_def': 30
 }
 # stats = Stats.Stats(input_stats)
@@ -12,7 +13,11 @@ input_stats = {
 bloat = NPC.NPC(input_stats)
 
 
-print(bloat.stats.get_stats())
-print()
-print()
+# print(bloat.stats.get_stats())
+# print()
+# print()
+bloat.stats.print_stats()
+
+bloat.reduce_defense_bgs(80)
+
 bloat.stats.print_stats()

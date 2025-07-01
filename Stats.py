@@ -3,10 +3,6 @@ import json
 
 class Stats:
 
-    def __init__(self):
-        self.set_default_stats()
-
-
     def __init__(self, input_stats=None):
         self.set_default_stats()
         if input_stats is not None:
@@ -16,6 +12,7 @@ class Stats:
             self.def_level = input_stats.get("def_level") if input_stats.get("def_level") is not None else self.def_level
             self.magic_level = input_stats.get("magic_level") if input_stats.get("magic_level") is not None else self.magic_level
             self.ranged_level = input_stats.get("ranged_level") if input_stats.get("ranged_level") is not None else self.ranged_level
+            self.prayer_level = input_stats.get("prayer_level") if input_stats.get("prayer_level") is not None else self.prayer_level
             
             self.stab_attack_bonus = input_stats.get("stab_attack_bonus") if input_stats.get("stab_attack_bonus") is not None else self.stab_attack_bonus
             self.slash_attack_bonus = input_stats.get("slash_attack_bonus") if input_stats.get("slash_attack_bonus") is not None else self.slash_attack_bonus
@@ -44,6 +41,7 @@ class Stats:
         self.def_level = 0
         self.magic_level = 0
         self.ranged_level = 0
+        self.prayer_level = 0
 
         self.stab_attack_bonus = 0
         self.slash_attack_bonus = 0
