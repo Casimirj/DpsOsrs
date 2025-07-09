@@ -1,16 +1,20 @@
-import NPC
-import Stats
 
-input_stats = {
-    'hp_level': 100,
-    'def_level': 50,
-    'prayer_level': 20,
-    'stab_def': 30
-}
-# stats = Stats.Stats(input_stats)
-# print(input_stats["hp_level"])
 
-bloat = NPC.NPC(input_stats)
+from Monsters.Bloat import Bloat
+
+bloat = Bloat(1)
+
+
+# input_stats = {
+#     'hp_level': 100,
+#     'def_level': 50,
+#     'prayer_level': 20,
+#     'stab_def': 30
+# }
+# # stats = Stats.Stats(input_stats)
+# # print(input_stats["hp_level"])
+
+# bloat = NPC.NPC(input_stats)
 
 
 # print(bloat.stats.get_stats())

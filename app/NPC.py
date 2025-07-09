@@ -1,14 +1,13 @@
 
-import math
-import Stats
+from Stats import Stats
 
 class NPC:
 
     def __init__(self, stats=None):
         if stats == None:
             raise ValueError("Stats cannot be null")
-        self.stats = Stats.Stats(stats)
-        self.current_hp = stats.hp_level
+        self.stats = Stats(stats)
+        self.current_hp = self.stats.hp_level
 
 
 
@@ -58,7 +57,7 @@ class NPC:
 
 
     def reduce_hp(self, amount):
-        self.current_hp = self.current_hp - damage_amount
+        self.current_hp = self.current_hp - amount
         self.current_hp = self.current_hp if self.current_hp >= 0 else 0
         return self.current_hp
 
