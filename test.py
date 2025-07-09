@@ -1,8 +1,9 @@
 
 
 from Monsters.Bloat import Bloat
+from Monsters.Sotetseg import Sotetseg
 
-bloat = Bloat(1)
+bloat = Sotetseg(1)
 
 
 # input_stats = {
@@ -22,6 +23,6 @@ bloat = Bloat(1)
 # print()
 bloat.stats.print_stats()
 
-bloat.reduce_defense_bgs(80)
+bloat.reduce_defense_bgs(180)
 
 bloat.stats.print_stats()

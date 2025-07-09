@@ -1,4 +1,4 @@
-from app.NPC import NPC
+from NPC import NPC
 
 
 class Bloat(NPC):

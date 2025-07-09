@@ -3,10 +3,12 @@ from Stats import Stats
 
 class NPC:
 
-    def __init__(self, stats=None):
+    def __init__(self, stats=None, minimum_def = 0):
         if stats == None:
             raise ValueError("Stats cannot be null")
         self.stats = Stats(stats)
+
+        self.minimum_def = minimum_def
         self.current_hp = self.stats.hp_level
 
 
@@ -18,15 +20,17 @@ class NPC:
     
 
     def reduce_defense(self, damage_amount):
-        self.stats.def_level = self.stats.def_level - damage_amount
-        self.stats.def_level = self.stats.def_level if self.stats.def_level >= 0 else 0
-        return self.stats.def_level
+        new_def = max(self.stats.def_level - damage_amount, self.minimum_def)
+        actual_reduction = self.stats.def_level - new_def
+        self.stats.def_level = new_def
+
 
     def reduce_defense_with_bgs(self, damage_amount):
         remaining_damage = damage_amount
         # Defense reduction
-        if remaining_damage > 0 and self.stats.def_level > 0:
-            reduction = min(remaining_damage, self.stats.def_level)
+        if remaining_damage > 0 and self.stats.def_level > self.minimum_def:
+            max_possible_reduction = self.stats.def_level - self.minimum_def
+            reduction = min(remaining_damage, max_possible_reduction)
             self.stats.def_level -= reduction
             remaining_damage -= reduction
         # Strength reduction
