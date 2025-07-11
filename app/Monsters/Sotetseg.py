@@ -1,4 +1,4 @@
-from NPC import NPC
+from Monsters.NPC import NPC
 
 
 class Sotetseg(NPC):

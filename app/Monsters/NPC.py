@@ -3,29 +3,44 @@ from Stats import Stats
 
 class NPC:
 
-    def __init__(self, stats=None, minimum_def = 0):
-        if stats == None:
-            raise ValueError("Stats cannot be null")
-        self.stats = Stats(stats)
 
-        self.minimum_def = minimum_def
-        self.current_hp = self.stats.hp_level
+    def reduce_hp(self, amount):
+        self.current_hp = self.current_hp - amount
+        self.current_hp = self.current_hp if self.current_hp >= 0 else 0
+        return self.current_hp
 
 
-
-
+    def is_dead(self):
+        return self.current_hp == 0
+    
+    def is_alive(self):
+        return self.current_hp > 0
+    
     def calc_def_roll(self):
         def_roll = (self.stats.def_level + 9) * (self.stats.slash_def + 64)
         return def_roll
-    
+
 
     def reduce_defense(self, damage_amount):
         new_def = max(self.stats.def_level - damage_amount, self.minimum_def)
         actual_reduction = self.stats.def_level - new_def
         self.stats.def_level = new_def
 
+    def reduce_defense_dwh(self):
+        current_def = self.stats.def_level
+        reduce_amount = current_def * .30
+        return self.reduce_defense(reduce_amount)
 
-    def reduce_defense_with_bgs(self, damage_amount):
+    def reduce_defense_maul(self):
+        current_def = self.stats.def_level
+        reduce_amount = current_def * .35
+        return self.reduce_defense(reduce_amount)
+    
+    def reduce_defense_ralos(self):
+        reduction = self.stats.magic_level / 10
+        self.stats.def_level = max(self.stats.def_level - reduction, 0)
+    
+    def reduce_defense_bgs(self, damage_amount):
         remaining_damage = damage_amount
         # Defense reduction
         if remaining_damage > 0 and self.stats.def_level > self.minimum_def:
@@ -60,39 +75,17 @@ class NPC:
             remaining_damage -= reduction
 
 
-    def reduce_hp(self, amount):
-        self.current_hp = self.current_hp - amount
-        self.current_hp = self.current_hp if self.current_hp >= 0 else 0
-        return self.current_hp
 
 
-    def is_dead(self):
-        return self.current_hp == 0
+    def __init__(self, stats=None, minimum_def = 0):
+        if stats == None:
+            raise ValueError("Stats cannot be null")
+        self.stats = Stats(stats)
 
+        self.minimum_def = minimum_def
+        self.current_hp = self.stats.hp_level
 
-
-
-
-
-
-    def reduce_defense_dwh(self):
-        current_def = self.stats.def_level
-        reduce_amount = current_def * .30
-        return self.reduce_defense(reduce_amount)
-
-    def reduce_defense_maul(self):
-        current_def = self.stats.def_level
-        reduce_amount = current_def * .35
-        return self.reduce_defense(reduce_amount)
-
-
-
-    def reduce_defense_bgs(self, amount):
-        return self.reduce_defense_with_bgs(amount)
-
-
-
-# print(f"Monster Def Roll {calc_def_roll()}")
+        self.def_roll = self.calc_def_roll()
 
 
 
