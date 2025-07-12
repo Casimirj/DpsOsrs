@@ -10,6 +10,8 @@ stats = {
     'prayer_level': 99,
 
     'slash_attack_bonus': 50,
+    'stab_attack_bonus': 22,
+    'crush_attack_bonus': 22,
     'magic_attack_bonus': 0,
     'ranged_attack_bonus': 0,
 

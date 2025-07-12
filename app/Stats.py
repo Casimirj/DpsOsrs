@@ -1,4 +1,9 @@
 import json
+from beartype import beartype
+
+from typing import Optional, Union
+
+import Stats
 
 
 class Stats:
@@ -7,7 +12,7 @@ class Stats:
         return vars(self)
 
     def print_stats(self):
-        print(json.dumps(vars(self), sort_keys=False, indent=2))
+        print(json.dumps(vars(self), sort_keys=True, indent=2))
 
 
     def set_default_stats(self):
@@ -38,7 +43,7 @@ class Stats:
         self.ranged_def_med = 0
         self.ranged_def_heavy = 0
 
-    def increase(self, extra_stats):
+    def increase(self, extra_stats:Stats):
         """Increase this Stats object's properties by another Stats object's properties"""
         self.hp_level += extra_stats.hp_level
         self.attack_level += extra_stats.attack_level
@@ -66,7 +71,7 @@ class Stats:
         self.ranged_def_med += extra_stats.ranged_def_med
         self.ranged_def_heavy += extra_stats.ranged_def_heavy
 
-    def decrease(self, extra_stats):
+    def decrease(self, extra_stats:Stats):
         """Decrease this Stats object's properties by another Stats object's properties"""
         self.hp_level -= extra_stats.hp_level
         self.attack_level -= extra_stats.attack_level
@@ -95,7 +100,8 @@ class Stats:
         self.ranged_def_heavy -= extra_stats.ranged_def_heavy
 
 
-    def __init__(self, input_stats=None):
+    @beartype
+    def __init__(self, input_stats:dict=None):
         self.set_default_stats()
         if input_stats is not None:
             self.hp_level = input_stats.get("hp_level") if input_stats.get("hp_level") is not None else self.hp_level

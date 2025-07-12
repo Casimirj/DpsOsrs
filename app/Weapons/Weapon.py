@@ -1,5 +1,7 @@
 import random
 
+from Monsters.NPC import NPC
+
 class Weapon():
 
     def __init__(self, 
@@ -11,7 +13,8 @@ class Weapon():
         attack_speed=None,
         attack_range=None,
         has_special_attack=None,
-        special_attack_style=None
+        special_attack_style=None,
+        special_attack_cost=0
         ):
 
         if(any([
@@ -37,7 +40,7 @@ class Weapon():
         self.attack_range = 1 if attack_range is None else attack_range
         self.has_special_attack = has_special_attack
         self.special_attack_style = special_attack_style.capitalize() if special_attack_style else "N/A"
-
+        self.special_attack_cost = special_attack_cost
 
 
     def do_attack(self, max_hit, player_attack_roll, npc_def_roll):
@@ -51,3 +54,14 @@ class Weapon():
             return random.randint(1, max_hit)
 
 
+    def do_special_attack(self, max_hit:int, player_attack_roll:int, npc_def_roll:int, monster:NPC=None):
+        if(not self.has_special_attack):
+            print("We tried to spec with a weapon which does not have a special attack, using a normal attack")
+            return self.do_attack(
+                max_hit=max_hit, 
+                player_attack_roll=player_attack_roll, 
+                npc_def_roll=npc_def_roll
+            )
+        else:
+            raise ReferenceError("You used a special attack on a weapon which does not implement the special attack function")
+            

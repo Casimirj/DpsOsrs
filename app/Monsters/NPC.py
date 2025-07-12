@@ -1,10 +1,13 @@
+from typing import Optional, Union
+from beartype import beartype
 
 from Stats import Stats
+
 
 class NPC:
 
 
-    def reduce_hp(self, amount):
+    def reduce_hp(self, amount:int):
         self.current_hp = self.current_hp - amount
         self.current_hp = self.current_hp if self.current_hp >= 0 else 0
         return self.current_hp
@@ -16,12 +19,18 @@ class NPC:
     def is_alive(self):
         return self.current_hp > 0
     
-    def calc_def_roll(self):
-        def_roll = (self.stats.def_level + 9) * (self.stats.slash_def + 64)
+    @beartype
+    def calc_def_roll(self, attack_style:str=None):
+        def_bonus = 0
+        if attack_style is not None:
+            if attack_style.capitalize() == "Slash": def_bonus = self.stats.slash_def
+            if attack_style.capitalize() == "Crush": def_bonus = self.stats.crush_def
+            if attack_style.capitalize() == "Stab": def_bonus = self.stats.stab_def
+
+        def_roll = (self.stats.def_level + 9) * (def_bonus + 64)
         return def_roll
 
-
-    def reduce_defense(self, damage_amount):
+    def reduce_defense(self, damage_amount:int):
         new_def = max(self.stats.def_level - damage_amount, self.minimum_def)
         actual_reduction = self.stats.def_level - new_def
         self.stats.def_level = new_def
@@ -40,7 +49,7 @@ class NPC:
         reduction = self.stats.magic_level / 10
         self.stats.def_level = max(self.stats.def_level - reduction, 0)
     
-    def reduce_defense_bgs(self, damage_amount):
+    def reduce_defense_bgs(self, damage_amount:int):
         remaining_damage = damage_amount
         # Defense reduction
         if remaining_damage > 0 and self.stats.def_level > self.minimum_def:
@@ -77,7 +86,7 @@ class NPC:
 
 
 
-    def __init__(self, stats=None, weak_to_salve=False, minimum_def = 0):
+    def __init__(self, stats:dict=None, weak_to_salve:bool=False, minimum_def:int=0):
         if stats == None:
             raise ValueError("Stats cannot be null")
         self.stats = Stats(stats)
