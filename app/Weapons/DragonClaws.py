@@ -29,6 +29,8 @@ class DragonClaws(Weapon):
             special_attack_cost=50
         )
     
+
+    #this is a fuckin doozy somehow worse than the bgs calc
     @beartype
     def do_special_attack(self, max_hit:int, player_attack_roll:int, npc_def_roll:int, monster:NPC) -> int:
         hit_def_roll = random.randint(1, npc_def_roll)

@@ -1,3 +1,5 @@
+import math
+
 from NPC import NPC
 
 
@@ -39,6 +41,20 @@ class Bloat(NPC):
             "ranged_def_heavy": 800
         }
 
+        self.is_walking = False
+
         # stats = Stats(input_stats)
         super().__init__(input_stats, weak_to_salve=True)
+
+
+    def reduce_hp(self, amount:int):
+        adjusted_amount = amount
+        
+        if self.is_walking:
+            adjusted_amount = math.floor(amount / 2)
+        
+        super().reduce_hp(adjusted_amount)
+            
+
+
 
