@@ -1,4 +1,5 @@
 import math
+import random
 
 from NPC import NPC
 
@@ -43,6 +44,11 @@ class Bloat(NPC):
 
         self.is_walking = False
 
+        self.min_walk_duration = 32
+        self.max_walk_durration = 47
+        self.down_durration = 32
+
+
         # stats = Stats(input_stats)
         super().__init__(input_stats, weak_to_salve=True)
 
@@ -54,6 +60,10 @@ class Bloat(NPC):
             adjusted_amount = math.floor(amount / 2)
         
         super().reduce_hp(adjusted_amount)
+
+
+    def get_walk_duration(self):
+        return random.random(self.min_walk_duration, self.max_walk_durration)
             
 
 
