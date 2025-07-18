@@ -11,7 +11,8 @@ class Xarpus(NPC):
             2: 3000,
             1: 3000
         }
-
+##need to double check hp
+        
         input_stats = {
             'hp_level': scale_health[scale],
             'attack_level': 1,
