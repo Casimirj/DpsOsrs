@@ -5,9 +5,10 @@
 
 
 from Monsters.Bloat import Bloat
+from Player import Player
 
 
-def run_sim():
+def run_sim(players:list[Player]=None):
     tick = 0
     number_of_downs = 0
 
