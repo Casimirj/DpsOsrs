@@ -1,6 +1,6 @@
 from Player import Player
 
-
+##actually infernal cape!!!
 stats = {
     'hp_level': 99,
     'attack_level': 99,
