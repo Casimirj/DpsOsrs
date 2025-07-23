@@ -1,5 +1,6 @@
 
 
+import AttackSchedule
 from Monsters.Bloat import Bloat
 from Monsters.Sotetseg import Sotetseg
 from Player import Player
@@ -168,6 +169,45 @@ while(bloat.is_alive()):
         print(f"Bloat is dead in {total_swings_per_player} hits")
 
 
+
+
+
+
+
+stats = {
+    'hp_level': 99,
+    'attack_level': 99,
+    'strength_level': 99,
+    'def_level': 99,
+    'magic_level': 99,
+    'ranged_level': 99,
+    'prayer_level': 99,
+
+    'slash_attack_bonus': 50,
+    'stab_attack_bonus': 22,
+    'crush_attack_bonus': 22,
+    'magic_attack_bonus': 0,
+    'ranged_attack_bonus': 0,
+
+    'melee_strength_bonus': 53,
+    'magic_strength_bonus': 0,
+    'ranged_strength_bonus': 0,
+}
+
+
+attack_schedule = [
+    AttackSchedule("Maul", 1),
+    AttackSchedule("Bgs", -1),
+    AttackSchedule("Scythe", -1),
+
+]
+
+
+player1 = Player(stats=stats, attack_schedule=attack_schedule, wearing_salve=True)
+
+player2 = oath_torva_rancour
+
+list_of_players = [player1, player2]
 
 
 
