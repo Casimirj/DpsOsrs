@@ -42,9 +42,9 @@ class CrystalHalberd(Weapon):
         damage_total = 0
 
         if splat_1_hit:
-            damage_total += random.randint(1, max_hit*1.1)
+            damage_total += random.randint(1, int(max_hit*1.1))
         if splat_2_hit:
-            damage_total += random.randint(1, max_hit*1.1)
+            damage_total += random.randint(1, int(max_hit*1.1))
         
         return damage_total
             
