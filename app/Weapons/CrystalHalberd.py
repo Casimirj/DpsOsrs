@@ -26,10 +26,10 @@ class CrystalHalberd(Weapon):
             attack_type="Slash",
             attack_style="Aggressive",
             attack_speed=7,
-            attack_range=1,
+            attack_range=2,
             has_special_attack=True,
             special_attack_style="Slash",
-            special_attack_cost=50
+            special_attack_cost=30
         )
     
     @beartype
