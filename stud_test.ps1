@@ -9,7 +9,8 @@ cd ..\..
 # Set PYTHONPATH and run the test script
 $env:PYTHONPATH = "./app"
 #python test.py
-python testXarpus.py
+#python testXarpus.py
+python SpecTest.py
 deactivate
 
 # Calculate and display duration
