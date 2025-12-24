@@ -509,12 +509,12 @@ def export_to_excel(results, boss_name, num_players, player_specs, num_simulatio
     # Generate filename
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
     filename = f"TOB_{boss_name}_Sim_{num_players}p_{num_simulations}runs_{timestamp}.xlsx"
-    
+    '''
     # Save workbook
     wb.save(filename)
     print(f"\n✅ Results exported to: {filename}")
     return filename
-
+'''
 
 print()
 print("Running TOB Boss Spec Simulation")
@@ -547,7 +547,7 @@ results = run_spec_simulation(
     num_simulations=num_sims,
     verbose=verbose
 )
-
+'''
 # Ask if user wants to export to Excel
 print("\n" + "="*50)
 export_choice = input("Export results to Excel? (y/n): ").lower().strip()
@@ -557,3 +557,4 @@ if export_choice in ['y', 'yes']:
     export_to_excel(results, boss_name, num_players, player_specs, num_sims)
 else:
     print("Results not exported.")
+'''
