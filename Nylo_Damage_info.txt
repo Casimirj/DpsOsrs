@@ -1,0 +1,74 @@
+Nylo Results
+
+--------------------------5 MAN------------------------------
+No BGS                           Avg. Damage per player
+Double Claws (652 team damage)--------139.4 
+Double Chally (635 team damage)-------127
+Scythe Chally (533 team damage)-------106.6
+Scythe Claw (540 team damage)---------108
+Scythe Scythe (428 Team Damage)-------85.6
+
+1 BGS
+(9)Double Claws (624 team damage)-----124.8
+(9)Double Chally (621 team damage)----124.2
+(4)Scythe (5)Chally (535 team damage)-107
+(4)Scythe (5)Claw (537 team damage)---107.4
+Scythe Scythe (427 Team Damage)-------85.4
+
+2 BGS 
+(8)Double Claws (591 team damage)-----118.2
+(8)Double Chally (594 team damage)----118.8
+(3)Scythe (5)Chally (529 team damage)-105.8
+(3)Scythe (5)Claw (527 Team Damage)---105.4
+Scythe Scythe (420 Team Damage)-------84
+
+--------------------------4 MAN---------------------------------
+No BGS 
+Double Claws (522 team damage)--------130.5
+Double Chally (510 team damage)-------127.5
+Scythe Chally (425 team damage)-------106.25
+Scythe Claw (433 team damage)---------108.25
+Scythe Scythe (343 Team Damage)-------85.75
+
+1 BGS
+(7)Double Claws (491 team damage)-----122.75
+(7)Double Chally (490 team damage)----122.5
+(3)Scythe (4)Chally (423 team damage)-105.75
+(3)Scythe (4)Claw (426 team damage)---106.5
+Scythe Scythe (341 Team Damage)-------85.25
+
+2 BGS 
+(6)Double Claws (459 team damage)-----114.75
+(6)Double Chally (462 team damage)----115.5
+(2)Scythe (4)Chally (418 team damage)-104.5
+(2)Scythe (4)Claw (416 Team Damage)---104
+Scythe Scythe (330 Team Damage)-------82.5
+
+----------------------------------3 man-------------------------------------
+
+No BGS 
+Double Claws (391 team damage)--------130.33
+Double Chally (382 team damage)-------127.33
+Scythe Chally (319 team damage)-------106.33
+Scythe Claw (324 team damage)---------108
+Scythe Scythe (257 Team Damage)-------85.66
+
+1 BGS
+(5)Double Claws (360 team damage)-----120
+(5)Double Chally (359 team damage)----119.66
+(2)Scythe (3)Chally (316 team damage)-105.33
+(2)Scythe (3)Claw (317 team damage)---105.66
+Scythe Scythe (249 Team Damage)-------83
+
+2 BGS 
+(4)Double Claws (328 team damage)-----109.33
+(4)Double Chally (328 team damage)----109.33
+(1)Scythe (3)Chally (308 team damage)-102.66
+(1)Scythe (3)Claw (306 Team Damage)---102
+Scythe Scythe (241 Team Damage)-------80.33
+
+
+
+
+-------------------------------------------------------------------
+Next I'm going to check melee weapons, range weapons and mage weapons against different Def levels
