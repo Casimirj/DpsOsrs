@@ -30,7 +30,7 @@ class ElderMaul(Weapon):
         )
         
     def do_special_attack(self, max_hit:int, player_attack_roll:int, npc_def_roll:int, monster:NPC) -> int:
-        adjusted_attack_roll = player_attack_roll * 1.25
+        adjusted_attack_roll = int(player_attack_roll * 1.25)
         hit = super().do_attack(max_hit, adjusted_attack_roll, npc_def_roll)
         if hit > 0:
             monster.reduce_defense_maul()

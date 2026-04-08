@@ -42,7 +42,7 @@ class Weapon():
         self.special_attack_style = special_attack_style.capitalize() if special_attack_style else "N/A"
         self.special_attack_cost = special_attack_cost
 
-
+    # ──────────────────────────────────────────────────────────────────
     def do_attack(self, max_hit, player_attack_roll, npc_def_roll):
         hit_att_roll = random.randint(1, player_attack_roll)
         hit_def_roll = random.randint(1, npc_def_roll)
@@ -53,7 +53,7 @@ class Weapon():
         else:
             return random.randint(1, max_hit)
 
-
+    # ──────────────────────────────────────────────────────────────────
     def do_special_attack(self, max_hit:int, player_attack_roll:int, npc_def_roll:int, monster:NPC=None):
         if(not self.has_special_attack):
             print("We tried to spec with a weapon which does not have a special attack, using a normal attack")

@@ -10,13 +10,13 @@ stats = {
     'ranged_level': 99,
     'prayer_level': 99,
 
-    'slash_attack_bonus': 78,
+    'slash_attack_bonus': 50,
     'stab_attack_bonus': 50,
     'crush_attack_bonus': 50,
     'magic_attack_bonus': 0,
     'ranged_attack_bonus': 0,
 
-    'melee_strength_bonus': 66,
+    'melee_strength_bonus': 70,
     'magic_strength_bonus': 0,
     'ranged_strength_bonus': 0,
 }

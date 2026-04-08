@@ -1,0 +1,1471 @@
+def_level,combo,avg_damage,max_damage,top10_threshold_p90,top10_avg_damage
+0,Scythe + Scythe + Scythe,134.6630,214,173,185.2200
+1,Scythe + Scythe + Scythe,134.9970,218,171,183.7400
+2,Scythe + Scythe + Scythe,135.1020,224,174,187.5800
+3,Scythe + Scythe + Scythe,132.6970,233,169,181.2500
+4,Scythe + Scythe + Scythe,132.1520,215,167,180.8400
+5,Scythe + Scythe + Scythe,133.6780,235,172,187.3600
+6,Scythe + Scythe + Scythe,133.0430,220,171,184.4900
+7,Scythe + Scythe + Scythe,132.9820,205,172,184.5000
+8,Scythe + Scythe + Scythe,132.8690,212,170,182.8800
+9,Scythe + Scythe + Scythe,132.3130,212,172,182.1700
+10,Scythe + Scythe + Scythe,131.4140,221,169,182.1400
+11,Scythe + Scythe + Scythe,133.8890,226,171,184.0500
+12,Scythe + Scythe + Scythe,133.2560,217,173,185.9400
+13,Scythe + Scythe + Scythe,132.2690,219,170,183.5000
+14,Scythe + Scythe + Scythe,133.0560,226,171,184.9300
+15,Scythe + Scythe + Scythe,132.1920,207,168,180.2600
+16,Scythe + Scythe + Scythe,132.3110,204,169,181.1000
+17,Scythe + Scythe + Scythe,131.0390,224,169,180.7600
+18,Scythe + Scythe + Scythe,131.7540,212,171,183.4100
+19,Scythe + Scythe + Scythe,131.1810,217,167,182.6300
+20,Scythe + Scythe + Scythe,129.9810,210,168,178.5000
+21,Scythe + Scythe + Scythe,132.3980,225,171,185.1700
+22,Scythe + Scythe + Scythe,132.4040,223,170,181.3200
+23,Scythe + Scythe + Scythe,132.8150,227,170,183.2100
+24,Scythe + Scythe + Scythe,130.4240,223,169,181.7800
+25,Scythe + Scythe + Scythe,132.0900,220,167,179.6500
+26,Scythe + Scythe + Scythe,130.2070,222,169,181.2700
+27,Scythe + Scythe + Scythe,130.7730,213,169,179.9300
+28,Scythe + Scythe + Scythe,132.3330,222,172,184.4800
+29,Scythe + Scythe + Scythe,130.5020,232,168,182.6600
+30,Scythe + Scythe + Scythe,132.1910,224,169,182.6900
+31,Scythe + Scythe + Scythe,132.5580,222,172,185.8400
+32,Scythe + Scythe + Scythe,129.9890,225,167,182.5700
+33,Scythe + Scythe + Scythe,130.9980,210,171,182.2500
+34,Scythe + Scythe + Scythe,130.3000,225,166,179.8100
+35,Scythe + Scythe + Scythe,130.6540,220,167,180.6500
+36,Scythe + Scythe + Scythe,130.1490,210,168,179.1000
+37,Scythe + Scythe + Scythe,129.2220,212,169,182.3600
+38,Scythe + Scythe + Scythe,130.9550,218,171,183.1700
+39,Scythe + Scythe + Scythe,129.1660,221,168,182.9000
+40,Scythe + Scythe + Scythe,129.4990,222,169,181.9900
+41,Scythe + Scythe + Scythe,128.0750,209,167,179.8700
+42,Scythe + Scythe + Scythe,130.4470,214,171,182.5700
+43,Scythe + Scythe + Scythe,128.1890,222,167,178.8900
+44,Scythe + Scythe + Scythe,127.1400,225,165,179.3900
+45,Scythe + Scythe + Scythe,128.4610,229,168,182.0200
+46,Scythe + Scythe + Scythe,129.2780,207,169,180.3900
+47,Scythe + Scythe + Scythe,130.6040,215,168,182.0800
+48,Scythe + Scythe + Scythe,128.8630,217,167,181.0700
+49,Scythe + Scythe + Scythe,129.7490,212,167,181.9100
+50,Scythe + Scythe + Scythe,128.6960,219,166,181.2200
+51,Scythe + Scythe + Scythe,128.1430,219,169,181.5700
+52,Scythe + Scythe + Scythe,128.3440,209,170,181.6700
+53,Scythe + Scythe + Scythe,128.9240,218,167,180.9900
+54,Scythe + Scythe + Scythe,130.3650,225,168,182.8700
+55,Scythe + Scythe + Scythe,128.3540,219,168,179.3800
+56,Scythe + Scythe + Scythe,128.3530,230,168,181.9900
+57,Scythe + Scythe + Scythe,127.6350,232,166,178.0900
+58,Scythe + Scythe + Scythe,127.1010,213,166,181.0600
+59,Scythe + Scythe + Scythe,127.1570,225,165,177.5600
+60,Scythe + Scythe + Scythe,125.8630,223,165,179.6300
+61,Scythe + Scythe + Scythe,128.6060,209,169,181.7800
+62,Scythe + Scythe + Scythe,125.6430,222,166,179.0000
+63,Scythe + Scythe + Scythe,128.3130,224,167,181.0500
+64,Scythe + Scythe + Scythe,126.8520,226,166,179.6600
+65,Scythe + Scythe + Scythe,126.5180,217,165,180.1200
+66,Scythe + Scythe + Scythe,125.6680,215,163,176.7800
+67,Scythe + Scythe + Scythe,126.6620,229,164,179.3600
+68,Scythe + Scythe + Scythe,127.1570,218,167,180.6500
+69,Scythe + Scythe + Scythe,128.4370,223,169,182.3900
+0,Chally Spec + Chally Spec + Chally Spec,201.2840,344,261,279.2200
+1,Chally Spec + Chally Spec + Chally Spec,198.9060,335,260,278.9100
+2,Chally Spec + Chally Spec + Chally Spec,200.0640,332,259,280.2900
+3,Chally Spec + Chally Spec + Chally Spec,201.1620,345,262,282.4500
+4,Chally Spec + Chally Spec + Chally Spec,198.7690,350,262,283.2900
+5,Chally Spec + Chally Spec + Chally Spec,198.4440,346,263,284.3900
+6,Chally Spec + Chally Spec + Chally Spec,198.9200,324,259,282.2000
+7,Chally Spec + Chally Spec + Chally Spec,196.5970,342,256,275.3200
+8,Chally Spec + Chally Spec + Chally Spec,196.8540,334,259,280.2900
+9,Chally Spec + Chally Spec + Chally Spec,195.7130,336,261,282.1500
+10,Chally Spec + Chally Spec + Chally Spec,197.9800,350,260,283.3700
+11,Chally Spec + Chally Spec + Chally Spec,199.1130,337,259,278.5500
+12,Chally Spec + Chally Spec + Chally Spec,196.2790,344,255,279.7000
+13,Chally Spec + Chally Spec + Chally Spec,196.5190,334,259,281.0700
+14,Chally Spec + Chally Spec + Chally Spec,196.5230,341,257,277.9300
+15,Chally Spec + Chally Spec + Chally Spec,195.0790,352,259,281.6200
+16,Chally Spec + Chally Spec + Chally Spec,195.5390,359,262,281.3700
+17,Chally Spec + Chally Spec + Chally Spec,195.6010,357,256,277.1900
+18,Chally Spec + Chally Spec + Chally Spec,197.2310,344,259,277.2100
+19,Chally Spec + Chally Spec + Chally Spec,198.0540,343,258,279.1600
+20,Chally Spec + Chally Spec + Chally Spec,195.3840,347,259,278.4700
+21,Chally Spec + Chally Spec + Chally Spec,195.6830,349,258,278.8000
+22,Chally Spec + Chally Spec + Chally Spec,195.4230,340,259,278.7000
+23,Chally Spec + Chally Spec + Chally Spec,196.8250,329,262,283.1200
+24,Chally Spec + Chally Spec + Chally Spec,195.0320,322,256,279.0000
+25,Chally Spec + Chally Spec + Chally Spec,195.3950,339,261,283.0800
+26,Chally Spec + Chally Spec + Chally Spec,195.7040,332,258,279.1000
+27,Chally Spec + Chally Spec + Chally Spec,196.4980,328,259,278.7000
+28,Chally Spec + Chally Spec + Chally Spec,193.2300,352,257,276.6800
+29,Chally Spec + Chally Spec + Chally Spec,193.0120,350,256,281.3100
+30,Chally Spec + Chally Spec + Chally Spec,195.4720,345,261,282.0500
+31,Chally Spec + Chally Spec + Chally Spec,194.6400,359,261,281.1700
+32,Chally Spec + Chally Spec + Chally Spec,193.8840,324,254,272.4000
+33,Chally Spec + Chally Spec + Chally Spec,194.8190,336,255,277.3800
+34,Chally Spec + Chally Spec + Chally Spec,192.6840,343,256,278.7900
+35,Chally Spec + Chally Spec + Chally Spec,192.8330,334,261,283.0300
+36,Chally Spec + Chally Spec + Chally Spec,192.4240,331,253,275.5600
+37,Chally Spec + Chally Spec + Chally Spec,191.7570,354,254,276.1300
+38,Chally Spec + Chally Spec + Chally Spec,194.7260,355,259,278.8400
+39,Chally Spec + Chally Spec + Chally Spec,193.5780,333,261,282.9600
+40,Chally Spec + Chally Spec + Chally Spec,193.6320,323,255,279.0400
+41,Chally Spec + Chally Spec + Chally Spec,190.8160,341,250,275.2900
+42,Chally Spec + Chally Spec + Chally Spec,196.7270,350,256,281.2000
+43,Chally Spec + Chally Spec + Chally Spec,193.3770,326,254,272.6400
+44,Chally Spec + Chally Spec + Chally Spec,194.0080,326,259,276.5300
+45,Chally Spec + Chally Spec + Chally Spec,191.4120,345,255,272.8700
+46,Chally Spec + Chally Spec + Chally Spec,190.5540,334,253,274.7800
+47,Chally Spec + Chally Spec + Chally Spec,193.1090,333,255,277.7300
+48,Chally Spec + Chally Spec + Chally Spec,189.0660,321,251,272.6400
+49,Chally Spec + Chally Spec + Chally Spec,192.5240,326,258,277.0500
+50,Chally Spec + Chally Spec + Chally Spec,192.4100,351,260,280.1500
+51,Chally Spec + Chally Spec + Chally Spec,190.7600,333,256,275.0100
+52,Chally Spec + Chally Spec + Chally Spec,192.7980,347,257,278.0300
+53,Chally Spec + Chally Spec + Chally Spec,192.0450,318,260,280.0600
+54,Chally Spec + Chally Spec + Chally Spec,187.7840,333,251,271.1300
+55,Chally Spec + Chally Spec + Chally Spec,191.6150,334,256,280.5300
+56,Chally Spec + Chally Spec + Chally Spec,189.1410,357,249,272.2800
+57,Chally Spec + Chally Spec + Chally Spec,188.9790,328,252,274.1700
+58,Chally Spec + Chally Spec + Chally Spec,188.5160,327,252,273.8100
+59,Chally Spec + Chally Spec + Chally Spec,189.8850,353,256,276.6400
+60,Chally Spec + Chally Spec + Chally Spec,188.9280,349,254,276.4800
+61,Chally Spec + Chally Spec + Chally Spec,186.7850,337,253,274.3400
+62,Chally Spec + Chally Spec + Chally Spec,187.3580,344,251,274.4600
+63,Chally Spec + Chally Spec + Chally Spec,188.1700,347,255,276.3200
+64,Chally Spec + Chally Spec + Chally Spec,188.7970,321,251,272.5200
+65,Chally Spec + Chally Spec + Chally Spec,188.3760,320,248,268.6100
+66,Chally Spec + Chally Spec + Chally Spec,189.6070,345,256,276.4400
+67,Chally Spec + Chally Spec + Chally Spec,185.9590,333,250,272.5600
+68,Chally Spec + Chally Spec + Chally Spec,186.4370,365,250,271.4300
+69,Chally Spec + Chally Spec + Chally Spec,187.6560,311,257,275.0200
+0,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,198.9000,262,229,239.1400
+1,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.1330,263,226,236.8400
+2,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.5340,260,230,239.2800
+3,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.2160,259,226,236.4900
+4,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.8490,262,229,238.2100
+5,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.5960,263,230,238.1700
+6,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.6170,267,230,238.3900
+7,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.9370,267,227,238.3700
+8,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,198.1450,262,228,237.7400
+9,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,198.4320,258,228,238.3300
+10,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.6330,258,227,237.4500
+11,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.8450,263,227,236.5700
+12,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.6830,263,229,237.0300
+13,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.7170,253,227,236.0900
+14,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.0160,267,228,238.3500
+15,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.3530,262,227,236.6000
+16,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,198.2580,267,227,237.1300
+17,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.9630,259,228,237.6900
+18,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.4570,267,228,237.5600
+19,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.2230,263,229,239.5400
+20,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.8170,263,227,239.5500
+21,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.8740,263,226,237.3800
+22,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.9780,263,227,236.8100
+23,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.0940,262,229,239.7600
+24,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.6670,262,227,236.4800
+25,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.2800,267,228,239.0900
+26,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.8330,259,227,236.8200
+27,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.4250,256,227,235.7900
+28,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.7350,260,226,236.8900
+29,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.3010,259,229,238.8800
+30,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.1940,256,227,236.3200
+31,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.3220,262,227,237.5500
+32,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.3580,263,230,238.8300
+33,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.0700,259,227,236.8400
+34,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.3390,258,226,237.7700
+35,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.5080,256,226,235.6000
+36,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.3900,263,227,237.0900
+37,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.7350,251,227,236.0000
+38,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.4820,262,227,235.7500
+39,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.0820,254,226,236.4600
+40,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.0820,262,228,238.2000
+41,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.4180,263,225,235.1400
+42,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,197.9160,262,230,240.4500
+43,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.1870,259,226,236.8800
+44,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.1080,255,226,236.2500
+45,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.8670,256,225,234.1000
+46,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.5030,256,226,236.4000
+47,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.9500,263,226,235.7800
+48,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.6960,263,227,238.5100
+49,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.2490,260,224,234.6600
+50,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.5920,263,228,237.8100
+51,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.2010,263,227,238.2700
+52,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.9900,255,226,235.2000
+53,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.8820,267,227,236.3600
+54,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.2220,257,227,235.8200
+55,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.5970,258,225,234.6000
+56,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.1730,255,227,236.4400
+57,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.4010,258,227,236.7800
+58,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.3630,259,227,235.6500
+59,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.5730,262,225,235.6500
+60,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.3780,262,227,237.7400
+61,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.1050,263,226,236.3800
+62,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.7670,259,227,237.7500
+63,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,194.8240,260,226,236.6200
+64,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.6070,263,226,237.1200
+65,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,194.4590,258,225,235.4300
+66,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,196.7970,255,224,234.6200
+67,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,195.4830,262,226,235.4500
+68,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,194.1920,255,226,235.4000
+69,Dragon Claws Spec + Dragon Claws Spec + Dragon Claws Spec,194.6520,267,226,236.0300
+0,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,150.1080,257,191,207.4900
+1,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,148.6150,238,195,208.7100
+2,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,149.4420,256,197,210.5600
+3,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,148.6470,248,195,210.9900
+4,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,147.9090,239,195,207.5400
+5,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,147.5630,257,192,210.9300
+6,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,145.9270,242,192,205.0400
+7,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,148.9100,237,196,209.2000
+8,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,149.3240,256,195,210.2500
+9,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,148.9900,257,194,211.5900
+10,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,146.7430,244,192,207.1200
+11,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,147.5390,262,191,209.3500
+12,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,147.2250,268,193,209.0800
+13,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,147.3800,250,192,209.5900
+14,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,145.1830,241,189,204.9000
+15,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,147.3450,262,195,209.9000
+16,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,147.2230,250,194,210.9000
+17,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,146.9410,251,192,208.6600
+18,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,147.1060,248,194,208.3300
+19,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,144.7580,248,192,206.4700
+20,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,147.8190,264,195,211.7900
+21,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,146.0870,250,193,209.8200
+22,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,146.7320,249,194,208.5200
+23,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,144.5880,245,195,210.6800
+24,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,143.7860,256,190,205.2000
+25,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,145.9070,244,194,209.7500
+26,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,143.6780,253,191,207.4000
+27,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,143.1040,258,190,205.8500
+28,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,143.9840,250,190,204.2900
+29,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,143.6780,248,194,207.3100
+30,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,144.3050,257,191,204.5600
+31,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,145.4140,265,192,210.0000
+32,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,144.4670,248,189,206.0700
+33,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,145.0710,250,190,207.7600
+34,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,142.3600,240,189,204.3700
+35,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,143.8330,240,189,203.7500
+36,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,142.7780,251,191,206.4400
+37,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,143.2520,255,191,205.7400
+38,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,142.5600,248,191,206.8600
+39,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,142.7750,264,191,206.8500
+40,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,141.3340,256,190,206.0700
+41,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,140.5110,237,188,202.2200
+42,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,141.7560,239,188,203.1300
+43,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,141.7290,252,188,205.6900
+44,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,144.3300,242,190,205.8300
+45,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,142.9120,250,190,205.2300
+46,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,142.9230,259,189,208.1800
+47,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,140.7260,242,190,203.9600
+48,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,140.5060,244,190,203.9700
+49,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,139.5130,247,186,201.3700
+50,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,139.4500,251,190,206.4400
+51,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,142.0370,254,188,204.4900
+52,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,139.1850,248,188,204.6600
+53,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,138.4010,255,184,200.6100
+54,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,138.7130,259,184,202.9400
+55,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,141.0820,264,188,205.6300
+56,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,140.2280,259,188,204.6500
+57,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,140.4910,259,191,207.5500
+58,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,140.3450,246,189,203.6700
+59,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,139.7710,248,189,204.2700
+60,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,139.9430,247,190,207.2100
+61,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,141.9820,258,189,207.2200
+62,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,138.9250,233,188,204.3900
+63,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,140.4980,267,187,204.1700
+64,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,136.6730,257,183,199.5000
+65,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,138.1370,240,186,200.0100
+66,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,138.2860,253,186,203.6200
+67,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,138.9760,254,188,205.9400
+68,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,138.5570,254,185,203.5900
+69,Dragon Dagger Spec + Dragon Dagger Spec + Dragon Dagger Spec,138.3520,249,187,204.1300
+0,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.6210,190,140,154.8600
+1,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,99.8760,190,143,159.0900
+2,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,99.8830,188,146,158.1200
+3,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.4570,187,144,156.2900
+4,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,99.1800,184,144,157.7000
+5,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.7160,187,142,158.1900
+6,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.9340,188,147,158.7800
+7,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,100.2140,196,143,155.7700
+8,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.0170,185,142,155.5600
+9,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,100.0950,191,144,159.3000
+10,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,97.8770,185,140,154.5000
+11,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,97.5870,196,141,155.1600
+12,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,100.8230,191,145,159.4800
+13,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,99.1430,188,144,156.4700
+14,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.1480,188,141,155.3700
+15,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,101.0720,182,148,159.5900
+16,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.7500,183,144,157.0900
+17,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,97.4660,191,139,154.1700
+18,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,100.0450,187,144,156.5400
+19,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,100.0130,190,147,160.1400
+20,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.4320,186,141,155.5500
+21,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,99.2610,190,140,155.1900
+22,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,100.0000,187,144,158.2400
+23,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.5680,193,144,157.1000
+24,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,99.2580,187,143,154.9300
+25,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.3270,187,139,154.5200
+26,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.0030,192,145,161.5200
+27,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.8170,186,142,155.0100
+28,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.0350,191,143,157.3600
+29,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.3450,190,144,159.6900
+30,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,99.7370,178,144,155.8900
+31,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.3190,194,143,158.0300
+32,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,99.1080,193,143,158.3700
+33,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.8370,188,144,159.4700
+34,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,99.7110,182,145,157.1000
+35,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.8440,186,143,155.3100
+36,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,97.5060,183,142,154.9300
+37,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.9190,187,141,155.3800
+38,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.0960,192,140,155.3000
+39,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,97.3720,191,140,154.9700
+40,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.5970,188,143,157.7900
+41,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.6750,187,143,156.6800
+42,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,99.4200,193,144,157.8600
+43,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.5520,185,140,154.2200
+44,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,97.8280,190,141,155.7300
+45,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,100.4750,193,147,160.1400
+46,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.2760,189,139,154.6400
+47,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,96.8520,184,143,157.5700
+48,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.9300,196,143,158.3600
+49,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,97.8670,184,142,156.3300
+50,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,97.2190,184,142,156.4200
+51,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.3810,192,143,159.0900
+52,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,96.9590,186,142,155.1900
+53,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,96.7770,186,141,155.6400
+54,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,97.6960,187,143,157.4100
+55,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,97.6300,193,143,159.2000
+56,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.2000,185,146,158.1300
+57,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.4230,192,143,157.5500
+58,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,96.8550,186,139,155.2500
+59,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,98.0430,191,144,156.9400
+60,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,95.9600,184,140,155.0100
+61,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,95.6370,194,140,155.7700
+62,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,97.3370,183,142,156.0800
+63,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,97.1850,194,145,159.3700
+64,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,95.9120,182,139,153.7500
+65,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,95.9380,185,139,153.1300
+66,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,97.1850,185,143,156.0100
+67,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,95.2560,186,138,153.1100
+68,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,94.2070,191,138,153.5500
+69,Elder Maul Spec + Elder Maul Spec + Elder Maul Spec,96.6810,185,142,154.8100
+0,Chally Spec + Chally Spec + Dragon Dagger Spec,181.7320,300,236,254.6900
+1,Chally Spec + Chally Spec + Dragon Dagger Spec,180.3760,297,237,256.7600
+2,Chally Spec + Chally Spec + Dragon Dagger Spec,181.8950,306,235,256.6300
+3,Chally Spec + Chally Spec + Dragon Dagger Spec,182.6890,300,240,260.9700
+4,Chally Spec + Chally Spec + Dragon Dagger Spec,179.1400,310,235,254.6500
+5,Chally Spec + Chally Spec + Dragon Dagger Spec,181.4870,307,239,260.0400
+6,Chally Spec + Chally Spec + Dragon Dagger Spec,180.2170,295,235,253.9300
+7,Chally Spec + Chally Spec + Dragon Dagger Spec,183.4290,306,240,257.9600
+8,Chally Spec + Chally Spec + Dragon Dagger Spec,182.1850,305,241,258.7100
+9,Chally Spec + Chally Spec + Dragon Dagger Spec,181.2840,306,237,256.3600
+10,Chally Spec + Chally Spec + Dragon Dagger Spec,183.4330,311,242,259.6500
+11,Chally Spec + Chally Spec + Dragon Dagger Spec,180.3210,299,236,252.8300
+12,Chally Spec + Chally Spec + Dragon Dagger Spec,182.2110,320,238,260.1800
+13,Chally Spec + Chally Spec + Dragon Dagger Spec,180.4300,293,238,255.0800
+14,Chally Spec + Chally Spec + Dragon Dagger Spec,181.5620,314,237,256.5200
+15,Chally Spec + Chally Spec + Dragon Dagger Spec,180.1310,316,240,258.5300
+16,Chally Spec + Chally Spec + Dragon Dagger Spec,182.5270,333,242,260.6500
+17,Chally Spec + Chally Spec + Dragon Dagger Spec,180.9740,331,237,257.4600
+18,Chally Spec + Chally Spec + Dragon Dagger Spec,180.0880,300,238,257.2100
+19,Chally Spec + Chally Spec + Dragon Dagger Spec,177.8740,315,236,254.8300
+20,Chally Spec + Chally Spec + Dragon Dagger Spec,179.1090,304,236,256.8500
+21,Chally Spec + Chally Spec + Dragon Dagger Spec,177.1300,297,234,253.3400
+22,Chally Spec + Chally Spec + Dragon Dagger Spec,179.1430,331,241,260.0700
+23,Chally Spec + Chally Spec + Dragon Dagger Spec,179.2770,310,236,258.2300
+24,Chally Spec + Chally Spec + Dragon Dagger Spec,180.9410,312,238,256.7000
+25,Chally Spec + Chally Spec + Dragon Dagger Spec,178.6480,325,233,256.5800
+26,Chally Spec + Chally Spec + Dragon Dagger Spec,177.6600,311,235,253.7300
+27,Chally Spec + Chally Spec + Dragon Dagger Spec,180.7200,331,236,259.2300
+28,Chally Spec + Chally Spec + Dragon Dagger Spec,175.7560,319,233,254.9500
+29,Chally Spec + Chally Spec + Dragon Dagger Spec,180.5930,309,238,257.3900
+30,Chally Spec + Chally Spec + Dragon Dagger Spec,178.6740,300,236,253.9800
+31,Chally Spec + Chally Spec + Dragon Dagger Spec,180.5290,305,241,258.7600
+32,Chally Spec + Chally Spec + Dragon Dagger Spec,179.7300,302,239,258.5300
+33,Chally Spec + Chally Spec + Dragon Dagger Spec,178.9350,329,238,257.2300
+34,Chally Spec + Chally Spec + Dragon Dagger Spec,177.8080,301,234,253.7000
+35,Chally Spec + Chally Spec + Dragon Dagger Spec,176.2070,335,237,257.2700
+36,Chally Spec + Chally Spec + Dragon Dagger Spec,174.3200,300,232,254.1600
+37,Chally Spec + Chally Spec + Dragon Dagger Spec,176.4950,319,232,250.9600
+38,Chally Spec + Chally Spec + Dragon Dagger Spec,177.7460,323,234,252.9100
+39,Chally Spec + Chally Spec + Dragon Dagger Spec,178.0380,314,235,255.9600
+40,Chally Spec + Chally Spec + Dragon Dagger Spec,176.1750,303,234,253.1000
+41,Chally Spec + Chally Spec + Dragon Dagger Spec,176.4340,316,237,257.4800
+42,Chally Spec + Chally Spec + Dragon Dagger Spec,173.2030,315,236,256.7300
+43,Chally Spec + Chally Spec + Dragon Dagger Spec,174.9580,295,232,251.1400
+44,Chally Spec + Chally Spec + Dragon Dagger Spec,174.1910,332,230,253.5000
+45,Chally Spec + Chally Spec + Dragon Dagger Spec,174.1790,310,229,247.5400
+46,Chally Spec + Chally Spec + Dragon Dagger Spec,175.6230,299,235,254.0800
+47,Chally Spec + Chally Spec + Dragon Dagger Spec,176.0380,293,236,255.0800
+48,Chally Spec + Chally Spec + Dragon Dagger Spec,174.8710,303,236,257.0600
+49,Chally Spec + Chally Spec + Dragon Dagger Spec,173.9540,290,232,253.1600
+50,Chally Spec + Chally Spec + Dragon Dagger Spec,175.0180,302,235,252.2200
+51,Chally Spec + Chally Spec + Dragon Dagger Spec,175.4720,306,234,253.8600
+52,Chally Spec + Chally Spec + Dragon Dagger Spec,173.5730,327,229,253.0900
+53,Chally Spec + Chally Spec + Dragon Dagger Spec,175.4920,304,234,252.2900
+54,Chally Spec + Chally Spec + Dragon Dagger Spec,173.9350,313,236,258.6400
+55,Chally Spec + Chally Spec + Dragon Dagger Spec,172.1400,297,232,252.7500
+56,Chally Spec + Chally Spec + Dragon Dagger Spec,172.6620,323,230,249.6700
+57,Chally Spec + Chally Spec + Dragon Dagger Spec,173.7210,327,232,251.9800
+58,Chally Spec + Chally Spec + Dragon Dagger Spec,170.9430,325,229,250.7700
+59,Chally Spec + Chally Spec + Dragon Dagger Spec,171.5180,297,233,252.0700
+60,Chally Spec + Chally Spec + Dragon Dagger Spec,172.0760,308,232,252.9500
+61,Chally Spec + Chally Spec + Dragon Dagger Spec,172.5430,309,230,250.8200
+62,Chally Spec + Chally Spec + Dragon Dagger Spec,173.6580,309,234,253.3400
+63,Chally Spec + Chally Spec + Dragon Dagger Spec,173.9020,320,233,254.6200
+64,Chally Spec + Chally Spec + Dragon Dagger Spec,170.8810,320,232,253.9000
+65,Chally Spec + Chally Spec + Dragon Dagger Spec,173.3330,317,231,253.7700
+66,Chally Spec + Chally Spec + Dragon Dagger Spec,174.3860,312,232,251.2000
+67,Chally Spec + Chally Spec + Dragon Dagger Spec,171.0900,296,230,252.3200
+68,Chally Spec + Chally Spec + Dragon Dagger Spec,174.1890,312,235,253.0800
+69,Chally Spec + Chally Spec + Dragon Dagger Spec,173.2730,301,232,251.4000
+0,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,164.8900,280,215,232.5600
+1,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,163.3770,275,214,229.6100
+2,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,165.9770,305,218,238.5500
+3,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,165.0840,285,217,236.0600
+4,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,165.0200,296,216,236.6500
+5,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,164.8210,288,219,237.2000
+6,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,163.6370,279,216,234.4300
+7,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.2230,283,211,230.5900
+8,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,163.2740,286,215,233.0000
+9,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,164.0590,277,215,230.5700
+10,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,163.1500,272,214,231.3500
+11,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,163.3690,274,214,231.4200
+12,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,163.3240,276,214,230.5500
+13,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,164.5300,280,218,235.1300
+14,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.7250,286,215,233.6800
+15,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.4510,277,212,231.5600
+16,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,163.2900,282,216,233.8000
+17,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,162.9550,297,214,233.1000
+18,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,162.5280,289,216,233.4100
+19,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.1520,263,212,227.0200
+20,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,164.0480,290,217,236.9800
+21,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,162.3870,282,218,234.1700
+22,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,162.6830,283,211,230.6600
+23,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,163.1350,279,216,235.9700
+24,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,164.4490,272,215,229.2300
+25,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,163.1260,283,213,231.9500
+26,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.8450,278,217,230.7100
+27,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.8520,289,213,233.0200
+28,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.0770,283,214,232.9200
+29,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,158.4160,289,210,229.8100
+30,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,160.7030,265,215,231.4300
+31,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,160.3760,288,214,232.9800
+32,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.4010,287,211,230.4300
+33,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,160.5030,274,214,233.5000
+34,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.6800,274,210,228.5700
+35,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,160.3090,273,211,230.0500
+36,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.4800,267,211,227.2300
+37,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.1840,291,213,228.2800
+38,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.0290,274,213,232.4900
+39,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.1940,274,215,232.2900
+40,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.3860,276,215,231.6800
+41,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.9640,283,212,230.8300
+42,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,158.9720,274,210,228.7400
+43,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.0540,270,211,230.3900
+44,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,158.1200,278,212,228.9400
+45,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,160.1760,288,215,231.6600
+46,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,156.3490,282,209,228.6500
+47,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,156.8010,281,212,229.7400
+48,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,157.3360,269,213,228.3700
+49,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,155.4690,280,208,225.6700
+50,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,157.9350,303,210,231.7500
+51,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,156.3410,290,210,226.6600
+52,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,157.9860,282,214,232.7500
+53,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,157.0090,276,211,226.7600
+54,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,155.9350,277,209,228.1800
+55,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,158.4110,269,214,228.7200
+56,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,157.5420,273,212,227.7700
+57,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,156.1030,296,210,226.7000
+58,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,153.7050,279,206,226.1200
+59,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,154.3420,279,211,228.4400
+60,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,156.5380,271,211,229.0400
+61,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,156.7810,284,211,228.6800
+62,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,154.2590,284,208,225.2700
+63,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,154.9240,282,209,226.3200
+64,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,152.7490,283,208,225.6500
+65,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,155.6720,279,206,229.1500
+66,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,154.8340,288,209,227.8400
+67,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,155.4700,272,209,224.9600
+68,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,153.4790,277,210,228.6800
+69,Chally Spec + Dragon Dagger Spec + Dragon Dagger Spec,157.1850,288,211,229.1500
+0,Dragon Claws Spec + Chally Spec + Chally Spec,197.6580,329,250,267.9700
+1,Dragon Claws Spec + Chally Spec + Chally Spec,198.0090,319,251,269.9300
+2,Dragon Claws Spec + Chally Spec + Chally Spec,197.6050,305,251,267.2400
+3,Dragon Claws Spec + Chally Spec + Chally Spec,198.2200,308,255,269.4000
+4,Dragon Claws Spec + Chally Spec + Chally Spec,196.6250,326,247,265.7600
+5,Dragon Claws Spec + Chally Spec + Chally Spec,197.6420,310,254,270.9700
+6,Dragon Claws Spec + Chally Spec + Chally Spec,200.3130,325,255,275.2700
+7,Dragon Claws Spec + Chally Spec + Chally Spec,198.3760,317,250,268.3700
+8,Dragon Claws Spec + Chally Spec + Chally Spec,197.8780,308,254,273.2100
+9,Dragon Claws Spec + Chally Spec + Chally Spec,197.8030,299,251,268.0700
+10,Dragon Claws Spec + Chally Spec + Chally Spec,197.5520,333,252,269.9900
+11,Dragon Claws Spec + Chally Spec + Chally Spec,198.2240,327,250,266.9800
+12,Dragon Claws Spec + Chally Spec + Chally Spec,196.6620,318,250,269.0900
+13,Dragon Claws Spec + Chally Spec + Chally Spec,196.2920,321,253,272.4200
+14,Dragon Claws Spec + Chally Spec + Chally Spec,198.2510,322,251,270.9600
+15,Dragon Claws Spec + Chally Spec + Chally Spec,196.9400,327,252,273.0700
+16,Dragon Claws Spec + Chally Spec + Chally Spec,196.6240,314,247,264.5300
+17,Dragon Claws Spec + Chally Spec + Chally Spec,197.4560,326,253,272.6000
+18,Dragon Claws Spec + Chally Spec + Chally Spec,196.5330,326,252,270.2500
+19,Dragon Claws Spec + Chally Spec + Chally Spec,198.7520,318,251,273.3500
+20,Dragon Claws Spec + Chally Spec + Chally Spec,196.1100,330,247,268.0800
+21,Dragon Claws Spec + Chally Spec + Chally Spec,195.8200,328,250,268.0800
+22,Dragon Claws Spec + Chally Spec + Chally Spec,195.8980,325,252,270.4200
+23,Dragon Claws Spec + Chally Spec + Chally Spec,194.9100,320,250,267.9700
+24,Dragon Claws Spec + Chally Spec + Chally Spec,196.1040,307,252,267.8200
+25,Dragon Claws Spec + Chally Spec + Chally Spec,195.3450,316,249,266.1100
+26,Dragon Claws Spec + Chally Spec + Chally Spec,196.2440,319,251,270.9800
+27,Dragon Claws Spec + Chally Spec + Chally Spec,194.1340,309,247,265.6200
+28,Dragon Claws Spec + Chally Spec + Chally Spec,196.2940,308,251,269.5300
+29,Dragon Claws Spec + Chally Spec + Chally Spec,197.0730,317,253,269.9300
+30,Dragon Claws Spec + Chally Spec + Chally Spec,196.2520,309,248,266.1700
+31,Dragon Claws Spec + Chally Spec + Chally Spec,193.4220,344,243,264.5000
+32,Dragon Claws Spec + Chally Spec + Chally Spec,195.0830,323,247,266.8300
+33,Dragon Claws Spec + Chally Spec + Chally Spec,194.4730,318,246,266.0500
+34,Dragon Claws Spec + Chally Spec + Chally Spec,196.7310,317,253,268.9700
+35,Dragon Claws Spec + Chally Spec + Chally Spec,195.4210,321,251,270.3500
+36,Dragon Claws Spec + Chally Spec + Chally Spec,195.1800,320,247,264.9100
+37,Dragon Claws Spec + Chally Spec + Chally Spec,194.8410,314,248,266.9400
+38,Dragon Claws Spec + Chally Spec + Chally Spec,193.4940,310,245,265.7600
+39,Dragon Claws Spec + Chally Spec + Chally Spec,195.8510,312,251,270.2700
+40,Dragon Claws Spec + Chally Spec + Chally Spec,194.8350,312,254,269.9400
+41,Dragon Claws Spec + Chally Spec + Chally Spec,192.6750,314,245,265.7400
+42,Dragon Claws Spec + Chally Spec + Chally Spec,194.4300,325,251,269.9700
+43,Dragon Claws Spec + Chally Spec + Chally Spec,194.3380,300,248,265.6900
+44,Dragon Claws Spec + Chally Spec + Chally Spec,192.1550,317,246,263.4800
+45,Dragon Claws Spec + Chally Spec + Chally Spec,194.4520,324,248,266.6700
+46,Dragon Claws Spec + Chally Spec + Chally Spec,192.7520,328,249,266.1500
+47,Dragon Claws Spec + Chally Spec + Chally Spec,191.8690,314,243,260.8000
+48,Dragon Claws Spec + Chally Spec + Chally Spec,194.3600,323,251,269.7800
+49,Dragon Claws Spec + Chally Spec + Chally Spec,191.8220,309,247,266.9300
+50,Dragon Claws Spec + Chally Spec + Chally Spec,191.7040,318,246,265.8000
+51,Dragon Claws Spec + Chally Spec + Chally Spec,188.8400,321,245,262.8300
+52,Dragon Claws Spec + Chally Spec + Chally Spec,191.7440,328,248,265.2400
+53,Dragon Claws Spec + Chally Spec + Chally Spec,192.6090,317,245,265.3500
+54,Dragon Claws Spec + Chally Spec + Chally Spec,193.3080,309,245,263.8000
+55,Dragon Claws Spec + Chally Spec + Chally Spec,190.6620,327,240,258.8000
+56,Dragon Claws Spec + Chally Spec + Chally Spec,188.6020,330,241,259.2000
+57,Dragon Claws Spec + Chally Spec + Chally Spec,192.1310,312,246,265.4600
+58,Dragon Claws Spec + Chally Spec + Chally Spec,189.7310,325,244,262.1000
+59,Dragon Claws Spec + Chally Spec + Chally Spec,194.1310,325,250,269.0200
+60,Dragon Claws Spec + Chally Spec + Chally Spec,188.7290,294,246,262.6500
+61,Dragon Claws Spec + Chally Spec + Chally Spec,193.4510,309,249,266.6700
+62,Dragon Claws Spec + Chally Spec + Chally Spec,191.4490,305,248,265.1100
+63,Dragon Claws Spec + Chally Spec + Chally Spec,193.1290,310,252,268.4900
+64,Dragon Claws Spec + Chally Spec + Chally Spec,190.4390,321,246,265.8500
+65,Dragon Claws Spec + Chally Spec + Chally Spec,188.4830,313,248,265.9600
+66,Dragon Claws Spec + Chally Spec + Chally Spec,189.8700,313,244,263.3500
+67,Dragon Claws Spec + Chally Spec + Chally Spec,190.2560,308,243,260.7800
+68,Dragon Claws Spec + Chally Spec + Chally Spec,190.6770,328,247,265.9000
+69,Dragon Claws Spec + Chally Spec + Chally Spec,190.3730,315,246,262.4300
+0,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,182.8050,283,230,246.2400
+1,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,182.2210,287,228,245.0000
+2,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,181.2910,289,230,243.9400
+3,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,180.9950,282,229,244.7800
+4,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,182.3630,281,228,245.3900
+5,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,181.4340,286,232,249.0900
+6,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,180.7460,275,227,241.5300
+7,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,182.0620,299,231,246.5300
+8,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,181.1750,291,229,244.3500
+9,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,180.6210,280,227,243.8100
+10,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,180.7370,285,227,243.6100
+11,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,179.1340,287,226,243.3400
+12,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,180.7440,285,228,244.6800
+13,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,181.6780,284,231,246.2000
+14,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,178.5530,278,225,240.6600
+15,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,181.2750,278,230,244.8400
+16,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,179.1340,281,227,242.9100
+17,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,180.7210,282,230,244.7800
+18,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,179.0150,289,226,243.5700
+19,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,180.0930,270,227,241.6500
+20,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,180.2630,282,226,242.0300
+21,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,177.7100,299,224,239.7200
+22,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,179.6040,286,229,243.7700
+23,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,180.1100,291,231,247.2600
+24,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,181.0560,277,231,245.2400
+25,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,178.9040,300,227,247.8700
+26,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,176.6600,287,225,237.5500
+27,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,178.8440,280,228,243.3500
+28,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,178.4610,287,227,243.7400
+29,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,179.1830,286,230,244.0100
+30,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,177.4940,275,223,241.1300
+31,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,179.3490,294,226,244.1500
+32,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,176.9150,285,225,242.6300
+33,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,177.1830,279,224,239.7700
+34,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,178.9960,285,230,247.6400
+35,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,177.3450,285,227,243.1100
+36,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,177.1400,279,225,239.2500
+37,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,176.9100,299,224,240.3900
+38,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,178.8620,294,228,246.7900
+39,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,177.8180,296,229,244.9400
+40,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,177.8420,281,225,240.7600
+41,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,176.0580,282,223,241.2100
+42,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,177.2130,294,227,243.2000
+43,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,176.3940,287,224,239.3500
+44,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,178.7440,289,228,243.8800
+45,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,176.0520,273,225,242.1700
+46,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,178.3410,286,227,241.6300
+47,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,177.2200,284,226,242.1000
+48,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,174.9140,280,224,242.1900
+49,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,174.6630,284,224,240.4100
+50,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,175.6350,300,223,240.3900
+51,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,177.0860,285,222,240.9500
+52,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,176.2850,295,228,242.7600
+53,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,173.9990,285,225,240.8500
+54,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,175.0450,289,224,241.7000
+55,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,178.8690,283,227,244.4400
+56,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,175.9130,294,227,243.7300
+57,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,174.9570,279,223,239.9800
+58,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,175.3420,291,227,242.1000
+59,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,173.3430,278,224,241.3600
+60,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,174.7800,276,225,240.2200
+61,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,175.5140,270,224,239.1600
+62,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,173.9040,269,221,237.2400
+63,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,176.3960,292,227,244.3800
+64,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,172.7750,301,221,239.9300
+65,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,173.3990,292,221,238.8600
+66,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,173.2940,278,226,242.4900
+67,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,176.5560,283,226,241.0200
+68,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,172.1590,280,221,237.5600
+69,Dragon Claws Spec + Chally Spec + Dragon Dagger Spec,173.0920,283,223,240.3500
+0,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,197.9660,290,243,257.4500
+1,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,198.8050,280,241,252.8300
+2,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,196.8610,284,240,254.6000
+3,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,196.9790,300,240,253.1500
+4,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,197.5770,287,241,254.4800
+5,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,197.2590,292,239,255.5200
+6,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,197.3030,298,237,253.5700
+7,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,196.1230,288,240,255.2600
+8,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,199.2220,285,244,258.9800
+9,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,197.6820,292,240,253.8600
+10,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,199.1420,283,243,255.5700
+11,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,196.5400,284,240,254.6700
+12,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,196.7470,293,240,254.2400
+13,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,196.1550,293,240,255.2700
+14,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,196.9290,288,241,256.1700
+15,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,197.5400,292,240,255.4900
+16,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,197.3380,293,241,254.9300
+17,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,196.8640,291,240,254.9800
+18,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,196.9880,290,244,256.7800
+19,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,198.2660,286,241,255.3100
+20,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,198.5380,285,243,255.6600
+21,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,197.6300,293,239,254.4600
+22,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,197.4810,289,244,256.7800
+23,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,194.8880,294,237,252.3600
+24,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,194.7590,282,237,251.6200
+25,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,196.8950,301,243,256.9800
+26,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,197.3370,292,242,256.0500
+27,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,195.9540,289,242,258.5400
+28,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,195.4240,288,237,252.4800
+29,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,194.9350,295,239,253.5600
+30,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,195.7140,296,240,254.9100
+31,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,195.8890,288,241,254.3000
+32,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,195.8680,303,240,251.9700
+33,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,193.1050,294,237,251.6600
+34,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,195.1750,292,237,252.4500
+35,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,197.3400,292,242,258.0400
+36,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,194.6770,301,239,252.2600
+37,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,193.9570,292,238,254.5100
+38,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,195.4040,296,238,251.6300
+39,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,196.0350,292,241,256.2900
+40,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,195.1890,288,240,251.8100
+41,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,193.7090,303,237,252.7200
+42,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,192.8290,285,238,253.9700
+43,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,195.8620,285,241,253.8600
+44,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,193.7570,293,240,252.9700
+45,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,194.4390,289,238,253.8900
+46,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,195.0400,278,240,252.4100
+47,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,196.0060,295,240,255.2600
+48,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,194.6610,294,238,253.8800
+49,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,195.2370,289,239,253.0200
+50,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,194.6600,293,240,252.5000
+51,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,193.2820,290,241,257.1100
+52,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,193.3530,289,235,251.4800
+53,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,193.8330,288,238,252.4500
+54,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,191.8180,284,233,248.9000
+55,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,194.8530,292,238,254.5600
+56,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,194.3120,296,241,254.0500
+57,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,192.7280,301,239,256.1000
+58,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,192.8710,296,236,252.1900
+59,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,190.8620,285,237,252.3200
+60,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,194.3800,298,240,254.8600
+61,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,192.3460,294,238,252.5200
+62,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,191.6470,289,237,250.7400
+63,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,192.2400,285,240,256.2900
+64,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,191.1390,298,236,250.6000
+65,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,192.5010,293,238,253.9400
+66,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,193.6050,299,240,253.2900
+67,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,190.7400,305,235,251.3700
+68,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,192.1950,281,237,252.8400
+69,Dragon Claws Spec + Dragon Claws Spec + Chally Spec,190.9170,295,237,251.3300
+0,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,182.0800,259,218,228.9900
+1,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,181.0580,257,217,230.5600
+2,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,182.1390,270,218,230.4100
+3,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,180.8410,256,219,230.0100
+4,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,179.9390,258,217,229.6500
+5,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,181.4110,257,218,229.5900
+6,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,180.6830,259,217,229.7300
+7,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,179.6840,263,217,228.2400
+8,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,180.5820,256,219,228.9800
+9,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,181.7970,258,216,227.2700
+10,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,181.6880,264,219,230.7700
+11,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,181.3070,257,220,230.8900
+12,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,181.0700,251,216,227.4200
+13,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,179.4690,268,213,225.3400
+14,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,181.1370,261,216,229.4800
+15,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,180.6480,272,215,226.3200
+16,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,179.5200,267,217,227.3900
+17,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.0390,260,217,227.1300
+18,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,179.6280,257,215,227.9100
+19,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.8860,262,216,227.0700
+20,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,180.3560,261,216,228.2100
+21,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,182.1750,265,217,230.2100
+22,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,180.6290,263,217,228.1100
+23,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,179.3900,252,215,228.7300
+24,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,180.4020,267,216,230.5300
+25,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.7010,261,217,229.9100
+26,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.5540,258,215,226.5100
+27,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,179.2200,257,215,228.0200
+28,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,177.9350,251,214,225.4600
+29,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,177.6930,256,215,227.0200
+30,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.9360,256,217,227.0400
+31,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,179.5080,256,217,227.6300
+32,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,179.1720,260,218,227.9800
+33,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.9070,260,217,228.5600
+34,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,179.1650,257,217,229.9000
+35,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.1330,262,219,230.2800
+36,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,180.2520,265,217,229.9700
+37,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.7400,262,216,226.2600
+38,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,177.8650,262,216,227.3900
+39,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.9370,262,215,228.1500
+40,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.5130,255,216,227.0800
+41,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,177.7370,248,213,226.5300
+42,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.5100,254,215,227.2200
+43,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.3880,256,215,226.6200
+44,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,177.5040,257,215,226.9400
+45,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.2000,261,216,227.9200
+46,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,175.9910,261,214,226.4200
+47,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,177.1580,263,214,226.2600
+48,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.0060,261,214,227.5800
+49,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,176.6360,261,214,227.1000
+50,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.0320,264,215,227.3300
+51,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.1740,261,216,229.1500
+52,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.3900,267,218,228.9700
+53,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,177.4770,260,214,227.4300
+54,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,175.9320,265,212,224.8500
+55,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,178.1910,255,217,228.3100
+56,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,177.4830,262,215,228.3000
+57,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,177.5630,259,219,229.6500
+58,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,176.6850,262,213,226.5200
+59,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,175.6630,266,214,226.6400
+60,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,176.5990,256,213,226.5500
+61,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,176.9210,264,216,228.2300
+62,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,176.3500,263,214,225.1600
+63,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,176.6880,256,214,227.9300
+64,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,177.5530,270,212,226.9500
+65,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,176.9210,262,217,231.1200
+66,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,176.6510,263,214,229.0500
+67,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,177.0560,263,215,228.0300
+68,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,175.3370,257,216,226.2200
+69,Dragon Claws Spec + Dragon Claws Spec + Dragon Dagger Spec,176.6900,258,215,228.2000
+0,Dragon Claws Spec + Dragon Claws Spec + Scythe,177.5160,246,210,219.8100
+1,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.8200,250,210,220.8000
+2,Dragon Claws Spec + Dragon Claws Spec + Scythe,177.6040,245,210,219.8800
+3,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.1110,254,211,221.1900
+4,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.3470,252,209,220.1500
+5,Dragon Claws Spec + Dragon Claws Spec + Scythe,175.8710,249,208,220.3000
+6,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.1050,251,209,218.7200
+7,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.4060,254,208,218.4400
+8,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.4400,254,209,220.9200
+9,Dragon Claws Spec + Dragon Claws Spec + Scythe,174.9780,249,207,219.1300
+10,Dragon Claws Spec + Dragon Claws Spec + Scythe,175.7990,247,209,219.7800
+11,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.8020,244,210,221.3400
+12,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.3340,250,211,221.7400
+13,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.2880,248,209,218.7200
+14,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.2300,253,210,220.8000
+15,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.1330,242,210,218.8900
+16,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.1730,240,208,217.6500
+17,Dragon Claws Spec + Dragon Claws Spec + Scythe,174.8500,250,207,217.5200
+18,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.1160,251,210,220.4000
+19,Dragon Claws Spec + Dragon Claws Spec + Scythe,175.2320,254,210,220.1700
+20,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.3800,248,211,221.6200
+21,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.0620,248,208,217.5100
+22,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.0670,251,210,222.0700
+23,Dragon Claws Spec + Dragon Claws Spec + Scythe,175.8230,247,208,220.0400
+24,Dragon Claws Spec + Dragon Claws Spec + Scythe,175.3610,242,209,218.4800
+25,Dragon Claws Spec + Dragon Claws Spec + Scythe,174.0720,241,206,216.0100
+26,Dragon Claws Spec + Dragon Claws Spec + Scythe,174.8590,257,206,218.3300
+27,Dragon Claws Spec + Dragon Claws Spec + Scythe,173.7680,248,207,218.2000
+28,Dragon Claws Spec + Dragon Claws Spec + Scythe,175.4570,244,209,219.8000
+29,Dragon Claws Spec + Dragon Claws Spec + Scythe,175.0840,255,210,220.6600
+30,Dragon Claws Spec + Dragon Claws Spec + Scythe,173.4240,251,207,217.8900
+31,Dragon Claws Spec + Dragon Claws Spec + Scythe,174.2750,255,207,219.5700
+32,Dragon Claws Spec + Dragon Claws Spec + Scythe,174.3740,242,208,218.6300
+33,Dragon Claws Spec + Dragon Claws Spec + Scythe,173.8570,246,207,217.9700
+34,Dragon Claws Spec + Dragon Claws Spec + Scythe,174.5680,246,208,218.0800
+35,Dragon Claws Spec + Dragon Claws Spec + Scythe,173.6150,251,208,219.6500
+36,Dragon Claws Spec + Dragon Claws Spec + Scythe,173.9580,254,207,217.5100
+37,Dragon Claws Spec + Dragon Claws Spec + Scythe,173.1520,257,207,218.2400
+38,Dragon Claws Spec + Dragon Claws Spec + Scythe,176.2840,243,209,220.1800
+39,Dragon Claws Spec + Dragon Claws Spec + Scythe,174.0800,241,207,218.3100
+40,Dragon Claws Spec + Dragon Claws Spec + Scythe,175.0260,252,209,220.8000
+41,Dragon Claws Spec + Dragon Claws Spec + Scythe,174.7250,244,207,218.0000
+42,Dragon Claws Spec + Dragon Claws Spec + Scythe,172.1310,242,206,216.4800
+43,Dragon Claws Spec + Dragon Claws Spec + Scythe,174.1310,248,207,218.6100
+44,Dragon Claws Spec + Dragon Claws Spec + Scythe,174.2360,248,208,219.1900
+45,Dragon Claws Spec + Dragon Claws Spec + Scythe,174.5360,259,208,220.2300
+46,Dragon Claws Spec + Dragon Claws Spec + Scythe,173.3600,243,206,217.7800
+47,Dragon Claws Spec + Dragon Claws Spec + Scythe,173.5410,251,207,219.8600
+48,Dragon Claws Spec + Dragon Claws Spec + Scythe,173.8280,248,207,218.2600
+49,Dragon Claws Spec + Dragon Claws Spec + Scythe,174.3960,252,210,219.8600
+50,Dragon Claws Spec + Dragon Claws Spec + Scythe,172.8340,246,207,218.0800
+51,Dragon Claws Spec + Dragon Claws Spec + Scythe,172.4790,248,206,215.3800
+52,Dragon Claws Spec + Dragon Claws Spec + Scythe,173.1640,247,206,217.0100
+53,Dragon Claws Spec + Dragon Claws Spec + Scythe,173.0690,244,206,216.7100
+54,Dragon Claws Spec + Dragon Claws Spec + Scythe,172.9970,251,207,218.0300
+55,Dragon Claws Spec + Dragon Claws Spec + Scythe,173.1970,261,209,219.5200
+56,Dragon Claws Spec + Dragon Claws Spec + Scythe,173.9070,247,206,218.5700
+57,Dragon Claws Spec + Dragon Claws Spec + Scythe,172.8770,246,206,217.4200
+58,Dragon Claws Spec + Dragon Claws Spec + Scythe,173.8080,244,209,218.4700
+59,Dragon Claws Spec + Dragon Claws Spec + Scythe,172.4800,249,206,218.6000
+60,Dragon Claws Spec + Dragon Claws Spec + Scythe,172.9470,240,208,220.2400
+61,Dragon Claws Spec + Dragon Claws Spec + Scythe,171.6450,245,205,217.2800
+62,Dragon Claws Spec + Dragon Claws Spec + Scythe,172.8750,246,208,218.0300
+63,Dragon Claws Spec + Dragon Claws Spec + Scythe,171.8080,243,207,217.5700
+64,Dragon Claws Spec + Dragon Claws Spec + Scythe,173.3650,252,208,219.5500
+65,Dragon Claws Spec + Dragon Claws Spec + Scythe,171.7480,240,206,217.3800
+66,Dragon Claws Spec + Dragon Claws Spec + Scythe,170.9920,238,204,216.6100
+67,Dragon Claws Spec + Dragon Claws Spec + Scythe,172.9710,238,206,216.3000
+68,Dragon Claws Spec + Dragon Claws Spec + Scythe,172.8550,245,205,217.7800
+69,Dragon Claws Spec + Dragon Claws Spec + Scythe,172.8370,242,208,218.1000
+0,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,165.9170,262,206,220.6200
+1,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,165.0740,253,206,219.5300
+2,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,164.3280,248,206,218.6800
+3,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,166.4780,256,208,220.3600
+4,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,164.6080,247,206,219.3700
+5,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,165.7750,263,210,225.7900
+6,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,164.4540,262,204,220.1200
+7,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,164.0450,250,206,220.7700
+8,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,165.1580,269,205,219.6200
+9,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,164.8850,259,207,220.8300
+10,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,163.7040,257,204,218.0400
+11,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,162.1280,244,204,217.4400
+12,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,164.8180,253,204,218.2900
+13,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,163.6380,258,206,221.5600
+14,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,164.4670,251,203,218.0300
+15,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,163.1970,259,205,220.3600
+16,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,162.2200,249,201,217.1600
+17,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.5530,263,203,218.0200
+18,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,162.8380,268,204,216.8700
+19,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.7460,260,205,219.9500
+20,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,162.6040,262,207,219.5900
+21,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.9700,254,205,218.1800
+22,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,163.1930,247,204,218.2100
+23,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,165.8210,257,204,218.5200
+24,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,164.1210,258,205,220.2300
+25,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,162.9690,262,204,219.4200
+26,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,160.6520,254,200,216.0500
+27,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.6370,261,205,217.6800
+28,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.9320,247,203,217.9000
+29,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,162.0510,250,204,217.6400
+30,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,160.9840,262,203,216.7200
+31,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,164.4300,255,209,221.2600
+32,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.6140,255,203,217.3400
+33,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,162.2130,250,204,216.4100
+34,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.6640,266,204,218.8800
+35,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,160.3600,256,201,215.8400
+36,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,160.9510,246,202,216.1600
+37,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.6840,253,204,217.4900
+38,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,162.6980,258,204,217.8200
+39,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,160.8060,257,206,219.5700
+40,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.1790,242,203,217.0800
+41,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.8480,261,206,220.5100
+42,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.1860,247,202,213.8300
+43,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.1040,246,202,214.7400
+44,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.0480,246,198,212.7900
+45,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,160.9940,261,203,218.1400
+46,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.6750,262,202,216.4200
+47,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.9070,258,203,216.4300
+48,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,161.3790,263,203,217.7900
+49,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.4190,261,202,216.2800
+50,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,160.4480,265,202,217.9300
+51,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.7920,260,204,217.4800
+52,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,157.3310,262,199,215.8200
+53,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,160.0260,255,203,219.2600
+54,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,158.1280,246,200,214.5500
+55,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.8030,257,204,218.4800
+56,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,156.6580,256,201,214.9700
+57,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,157.3600,254,198,214.3000
+58,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,158.1840,266,201,217.0800
+59,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,157.1480,273,199,215.9200
+60,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.9780,263,201,216.3200
+61,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.0930,254,203,217.5400
+62,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,157.3570,257,197,213.7500
+63,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,157.4690,245,200,215.1400
+64,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,158.2460,258,202,219.0800
+65,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,155.8400,250,199,215.2600
+66,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,158.8460,249,201,214.9300
+67,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,157.8500,258,198,212.6000
+68,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,155.8620,259,201,216.2200
+69,Dragon Claws Spec + Dragon Dagger Spec + Dragon Dagger Spec,159.4150,251,202,217.5700
+0,Dragon Claws Spec + Scythe + Chally Spec,176.7160,295,219,233.1100
+1,Dragon Claws Spec + Scythe + Chally Spec,178.3890,286,224,240.8500
+2,Dragon Claws Spec + Scythe + Chally Spec,176.6700,266,220,233.8200
+3,Dragon Claws Spec + Scythe + Chally Spec,179.6530,274,226,241.0800
+4,Dragon Claws Spec + Scythe + Chally Spec,176.8860,274,221,236.5700
+5,Dragon Claws Spec + Scythe + Chally Spec,176.2430,278,220,234.1500
+6,Dragon Claws Spec + Scythe + Chally Spec,177.7080,279,226,238.7600
+7,Dragon Claws Spec + Scythe + Chally Spec,174.8110,275,222,236.7800
+8,Dragon Claws Spec + Scythe + Chally Spec,177.8020,272,224,237.8500
+9,Dragon Claws Spec + Scythe + Chally Spec,176.0740,280,221,237.7100
+10,Dragon Claws Spec + Scythe + Chally Spec,175.7880,269,221,237.2200
+11,Dragon Claws Spec + Scythe + Chally Spec,175.6850,265,221,234.9100
+12,Dragon Claws Spec + Scythe + Chally Spec,175.4970,281,222,236.4600
+13,Dragon Claws Spec + Scythe + Chally Spec,175.4960,280,220,236.7300
+14,Dragon Claws Spec + Scythe + Chally Spec,175.6870,276,223,236.9100
+15,Dragon Claws Spec + Scythe + Chally Spec,175.7870,279,222,237.5500
+16,Dragon Claws Spec + Scythe + Chally Spec,174.9740,262,220,234.8400
+17,Dragon Claws Spec + Scythe + Chally Spec,174.4720,263,220,233.1000
+18,Dragon Claws Spec + Scythe + Chally Spec,177.2460,267,224,237.6400
+19,Dragon Claws Spec + Scythe + Chally Spec,177.0440,278,223,239.2900
+20,Dragon Claws Spec + Scythe + Chally Spec,176.0980,272,221,238.5200
+21,Dragon Claws Spec + Scythe + Chally Spec,175.3180,277,220,236.1000
+22,Dragon Claws Spec + Scythe + Chally Spec,174.1530,272,222,236.8200
+23,Dragon Claws Spec + Scythe + Chally Spec,172.8700,271,221,235.7800
+24,Dragon Claws Spec + Scythe + Chally Spec,173.6270,280,222,236.1800
+25,Dragon Claws Spec + Scythe + Chally Spec,175.3580,274,221,236.5000
+26,Dragon Claws Spec + Scythe + Chally Spec,172.5040,270,220,234.4100
+27,Dragon Claws Spec + Scythe + Chally Spec,174.9070,269,220,234.1600
+28,Dragon Claws Spec + Scythe + Chally Spec,174.0880,275,222,237.7600
+29,Dragon Claws Spec + Scythe + Chally Spec,172.8080,286,219,237.6900
+30,Dragon Claws Spec + Scythe + Chally Spec,173.0670,280,218,233.9600
+31,Dragon Claws Spec + Scythe + Chally Spec,174.3140,271,217,232.6700
+32,Dragon Claws Spec + Scythe + Chally Spec,172.6750,276,220,233.6600
+33,Dragon Claws Spec + Scythe + Chally Spec,174.9440,274,222,237.5100
+34,Dragon Claws Spec + Scythe + Chally Spec,172.2460,282,219,232.8600
+35,Dragon Claws Spec + Scythe + Chally Spec,173.5110,273,220,236.3300
+36,Dragon Claws Spec + Scythe + Chally Spec,173.6140,261,217,231.4000
+37,Dragon Claws Spec + Scythe + Chally Spec,173.7430,271,220,236.4900
+38,Dragon Claws Spec + Scythe + Chally Spec,174.9980,283,223,239.1600
+39,Dragon Claws Spec + Scythe + Chally Spec,173.1630,273,221,236.3300
+40,Dragon Claws Spec + Scythe + Chally Spec,174.2100,275,220,236.4100
+41,Dragon Claws Spec + Scythe + Chally Spec,172.7020,265,219,235.9700
+42,Dragon Claws Spec + Scythe + Chally Spec,172.6770,276,219,234.9200
+43,Dragon Claws Spec + Scythe + Chally Spec,174.1380,280,221,236.2000
+44,Dragon Claws Spec + Scythe + Chally Spec,171.2290,282,222,237.6700
+45,Dragon Claws Spec + Scythe + Chally Spec,172.8270,278,221,236.9500
+46,Dragon Claws Spec + Scythe + Chally Spec,171.4900,271,216,232.8900
+47,Dragon Claws Spec + Scythe + Chally Spec,173.8840,271,221,238.1900
+48,Dragon Claws Spec + Scythe + Chally Spec,171.1930,271,220,233.9000
+49,Dragon Claws Spec + Scythe + Chally Spec,173.1440,274,221,236.1300
+50,Dragon Claws Spec + Scythe + Chally Spec,172.9040,281,221,235.2200
+51,Dragon Claws Spec + Scythe + Chally Spec,172.4620,284,218,234.2800
+52,Dragon Claws Spec + Scythe + Chally Spec,170.1460,262,217,232.7900
+53,Dragon Claws Spec + Scythe + Chally Spec,171.7510,272,219,233.1600
+54,Dragon Claws Spec + Scythe + Chally Spec,172.8360,266,219,233.8400
+55,Dragon Claws Spec + Scythe + Chally Spec,169.9770,271,216,231.3300
+56,Dragon Claws Spec + Scythe + Chally Spec,170.2330,275,218,235.1000
+57,Dragon Claws Spec + Scythe + Chally Spec,170.3830,285,216,233.3800
+58,Dragon Claws Spec + Scythe + Chally Spec,169.6780,275,218,235.3600
+59,Dragon Claws Spec + Scythe + Chally Spec,171.2190,275,218,235.2100
+60,Dragon Claws Spec + Scythe + Chally Spec,171.7480,273,220,236.2500
+61,Dragon Claws Spec + Scythe + Chally Spec,171.5890,275,220,235.7600
+62,Dragon Claws Spec + Scythe + Chally Spec,170.8600,277,216,234.8800
+63,Dragon Claws Spec + Scythe + Chally Spec,171.1380,282,219,233.7000
+64,Dragon Claws Spec + Scythe + Chally Spec,169.8120,278,215,232.3100
+65,Dragon Claws Spec + Scythe + Chally Spec,167.9300,281,215,230.7200
+66,Dragon Claws Spec + Scythe + Chally Spec,170.7890,267,217,233.6000
+67,Dragon Claws Spec + Scythe + Chally Spec,169.1730,292,213,231.6900
+68,Dragon Claws Spec + Scythe + Chally Spec,168.9580,279,215,231.7400
+69,Dragon Claws Spec + Scythe + Chally Spec,169.3800,270,218,234.5100
+0,Dragon Claws Spec + Scythe + Dragon Dagger Spec,159.2010,240,199,210.9500
+1,Dragon Claws Spec + Scythe + Dragon Dagger Spec,158.9470,248,197,210.2700
+2,Dragon Claws Spec + Scythe + Dragon Dagger Spec,160.0550,250,197,210.7500
+3,Dragon Claws Spec + Scythe + Dragon Dagger Spec,159.6450,232,199,209.7000
+4,Dragon Claws Spec + Scythe + Dragon Dagger Spec,160.5050,245,198,210.5100
+5,Dragon Claws Spec + Scythe + Dragon Dagger Spec,159.6580,250,199,211.3400
+6,Dragon Claws Spec + Scythe + Dragon Dagger Spec,160.1240,251,198,208.6800
+7,Dragon Claws Spec + Scythe + Dragon Dagger Spec,157.9260,256,195,208.6900
+8,Dragon Claws Spec + Scythe + Dragon Dagger Spec,158.6190,258,197,211.7500
+9,Dragon Claws Spec + Scythe + Dragon Dagger Spec,159.1370,242,198,209.8100
+10,Dragon Claws Spec + Scythe + Dragon Dagger Spec,160.4520,247,198,211.6500
+11,Dragon Claws Spec + Scythe + Dragon Dagger Spec,158.2710,245,197,211.0000
+12,Dragon Claws Spec + Scythe + Dragon Dagger Spec,161.1100,244,200,213.3400
+13,Dragon Claws Spec + Scythe + Dragon Dagger Spec,159.0460,246,196,211.1300
+14,Dragon Claws Spec + Scythe + Dragon Dagger Spec,159.1170,250,199,209.7700
+15,Dragon Claws Spec + Scythe + Dragon Dagger Spec,159.1160,242,198,210.0700
+16,Dragon Claws Spec + Scythe + Dragon Dagger Spec,156.6180,248,195,208.0400
+17,Dragon Claws Spec + Scythe + Dragon Dagger Spec,157.4610,244,195,206.7600
+18,Dragon Claws Spec + Scythe + Dragon Dagger Spec,158.1270,250,197,210.6500
+19,Dragon Claws Spec + Scythe + Dragon Dagger Spec,157.0360,251,196,210.0100
+20,Dragon Claws Spec + Scythe + Dragon Dagger Spec,156.6290,248,197,207.9900
+21,Dragon Claws Spec + Scythe + Dragon Dagger Spec,158.5990,248,194,209.3700
+22,Dragon Claws Spec + Scythe + Dragon Dagger Spec,158.7650,253,197,210.0200
+23,Dragon Claws Spec + Scythe + Dragon Dagger Spec,156.9580,240,195,208.7500
+24,Dragon Claws Spec + Scythe + Dragon Dagger Spec,157.9560,246,194,207.8600
+25,Dragon Claws Spec + Scythe + Dragon Dagger Spec,156.7730,241,193,208.1800
+26,Dragon Claws Spec + Scythe + Dragon Dagger Spec,157.2260,249,200,212.4500
+27,Dragon Claws Spec + Scythe + Dragon Dagger Spec,158.0230,253,197,211.2000
+28,Dragon Claws Spec + Scythe + Dragon Dagger Spec,155.8130,246,197,211.1600
+29,Dragon Claws Spec + Scythe + Dragon Dagger Spec,157.0190,245,196,211.6200
+30,Dragon Claws Spec + Scythe + Dragon Dagger Spec,157.9620,253,196,212.5800
+31,Dragon Claws Spec + Scythe + Dragon Dagger Spec,157.9620,244,196,208.2800
+32,Dragon Claws Spec + Scythe + Dragon Dagger Spec,156.5560,240,195,209.2800
+33,Dragon Claws Spec + Scythe + Dragon Dagger Spec,157.5010,242,196,208.6200
+34,Dragon Claws Spec + Scythe + Dragon Dagger Spec,155.6750,239,194,208.0900
+35,Dragon Claws Spec + Scythe + Dragon Dagger Spec,156.9200,243,195,208.3600
+36,Dragon Claws Spec + Scythe + Dragon Dagger Spec,156.4610,247,196,208.6000
+37,Dragon Claws Spec + Scythe + Dragon Dagger Spec,156.4780,239,195,207.1700
+38,Dragon Claws Spec + Scythe + Dragon Dagger Spec,155.6880,246,194,208.3800
+39,Dragon Claws Spec + Scythe + Dragon Dagger Spec,157.2310,242,196,209.2800
+40,Dragon Claws Spec + Scythe + Dragon Dagger Spec,155.9630,235,196,207.6500
+41,Dragon Claws Spec + Scythe + Dragon Dagger Spec,157.0530,242,196,210.7300
+42,Dragon Claws Spec + Scythe + Dragon Dagger Spec,156.0430,249,195,209.2200
+43,Dragon Claws Spec + Scythe + Dragon Dagger Spec,155.2410,239,195,207.0400
+44,Dragon Claws Spec + Scythe + Dragon Dagger Spec,155.4610,250,194,208.2800
+45,Dragon Claws Spec + Scythe + Dragon Dagger Spec,155.5930,233,193,206.1800
+46,Dragon Claws Spec + Scythe + Dragon Dagger Spec,156.1470,245,195,208.7300
+47,Dragon Claws Spec + Scythe + Dragon Dagger Spec,154.8310,246,194,206.5400
+48,Dragon Claws Spec + Scythe + Dragon Dagger Spec,154.0780,239,193,205.8000
+49,Dragon Claws Spec + Scythe + Dragon Dagger Spec,155.9200,249,193,206.0400
+50,Dragon Claws Spec + Scythe + Dragon Dagger Spec,154.2960,250,194,206.4000
+51,Dragon Claws Spec + Scythe + Dragon Dagger Spec,154.6990,236,193,205.3200
+52,Dragon Claws Spec + Scythe + Dragon Dagger Spec,153.3130,255,193,207.4200
+53,Dragon Claws Spec + Scythe + Dragon Dagger Spec,155.5610,235,196,208.1300
+54,Dragon Claws Spec + Scythe + Dragon Dagger Spec,153.9470,232,195,206.3500
+55,Dragon Claws Spec + Scythe + Dragon Dagger Spec,154.8990,238,196,209.0500
+56,Dragon Claws Spec + Scythe + Dragon Dagger Spec,154.2580,262,197,210.6800
+57,Dragon Claws Spec + Scythe + Dragon Dagger Spec,153.6680,233,193,206.7900
+58,Dragon Claws Spec + Scythe + Dragon Dagger Spec,154.1140,247,195,208.3400
+59,Dragon Claws Spec + Scythe + Dragon Dagger Spec,154.4980,245,193,205.7200
+60,Dragon Claws Spec + Scythe + Dragon Dagger Spec,154.3670,250,196,210.8000
+61,Dragon Claws Spec + Scythe + Dragon Dagger Spec,152.7440,247,191,205.5400
+62,Dragon Claws Spec + Scythe + Dragon Dagger Spec,153.0080,263,195,208.1000
+63,Dragon Claws Spec + Scythe + Dragon Dagger Spec,154.7240,252,194,206.6700
+64,Dragon Claws Spec + Scythe + Dragon Dagger Spec,152.9980,251,191,205.0500
+65,Dragon Claws Spec + Scythe + Dragon Dagger Spec,152.1950,237,192,203.8000
+66,Dragon Claws Spec + Scythe + Dragon Dagger Spec,154.2620,237,194,206.2600
+67,Dragon Claws Spec + Scythe + Dragon Dagger Spec,154.9880,251,194,208.5000
+68,Dragon Claws Spec + Scythe + Dragon Dagger Spec,154.0270,251,195,208.9200
+69,Dragon Claws Spec + Scythe + Dragon Dagger Spec,153.0310,238,191,205.3300
+0,Dragon Claws Spec + Scythe + Scythe,153.7350,238,187,201.7800
+1,Dragon Claws Spec + Scythe + Scythe,154.5730,229,189,202.4200
+2,Dragon Claws Spec + Scythe + Scythe,154.8460,235,190,200.1300
+3,Dragon Claws Spec + Scythe + Scythe,154.0480,234,189,202.0100
+4,Dragon Claws Spec + Scythe + Scythe,156.2100,228,191,201.5000
+5,Dragon Claws Spec + Scythe + Scythe,153.8080,239,188,200.4300
+6,Dragon Claws Spec + Scythe + Scythe,152.8380,231,187,198.4300
+7,Dragon Claws Spec + Scythe + Scythe,153.7640,235,190,201.4500
+8,Dragon Claws Spec + Scythe + Scythe,155.4240,234,190,202.0200
+9,Dragon Claws Spec + Scythe + Scythe,154.9900,247,191,201.6500
+10,Dragon Claws Spec + Scythe + Scythe,153.7470,227,189,200.7900
+11,Dragon Claws Spec + Scythe + Scythe,155.3980,234,192,203.8300
+12,Dragon Claws Spec + Scythe + Scythe,152.2210,227,187,200.1000
+13,Dragon Claws Spec + Scythe + Scythe,152.9770,231,188,200.1300
+14,Dragon Claws Spec + Scythe + Scythe,154.1300,231,189,200.9700
+15,Dragon Claws Spec + Scythe + Scythe,153.5780,238,192,203.7600
+16,Dragon Claws Spec + Scythe + Scythe,152.3780,240,187,199.5800
+17,Dragon Claws Spec + Scythe + Scythe,154.4910,238,191,202.5200
+18,Dragon Claws Spec + Scythe + Scythe,155.1520,232,191,202.8100
+19,Dragon Claws Spec + Scythe + Scythe,151.5440,234,187,199.5200
+20,Dragon Claws Spec + Scythe + Scythe,153.6650,239,187,200.7200
+21,Dragon Claws Spec + Scythe + Scythe,152.4540,227,188,201.4800
+22,Dragon Claws Spec + Scythe + Scythe,152.7710,237,188,199.5400
+23,Dragon Claws Spec + Scythe + Scythe,152.8440,233,188,200.9800
+24,Dragon Claws Spec + Scythe + Scythe,153.4370,229,191,203.1500
+25,Dragon Claws Spec + Scythe + Scythe,152.2030,227,187,197.6600
+26,Dragon Claws Spec + Scythe + Scythe,153.3970,236,189,200.2600
+27,Dragon Claws Spec + Scythe + Scythe,153.4500,229,190,200.0300
+28,Dragon Claws Spec + Scythe + Scythe,153.0150,235,189,200.8000
+29,Dragon Claws Spec + Scythe + Scythe,152.6750,240,190,201.6600
+30,Dragon Claws Spec + Scythe + Scythe,153.3090,234,192,203.2900
+31,Dragon Claws Spec + Scythe + Scythe,153.7220,230,192,203.4500
+32,Dragon Claws Spec + Scythe + Scythe,152.2330,232,190,201.9600
+33,Dragon Claws Spec + Scythe + Scythe,151.8030,235,188,199.5400
+34,Dragon Claws Spec + Scythe + Scythe,153.0400,228,188,198.8000
+35,Dragon Claws Spec + Scythe + Scythe,150.4960,228,187,199.7000
+36,Dragon Claws Spec + Scythe + Scythe,152.1450,227,187,201.0600
+37,Dragon Claws Spec + Scythe + Scythe,151.2530,237,187,199.6700
+38,Dragon Claws Spec + Scythe + Scythe,151.5550,233,186,199.8900
+39,Dragon Claws Spec + Scythe + Scythe,151.7220,235,186,199.5600
+40,Dragon Claws Spec + Scythe + Scythe,152.0990,239,188,199.2200
+41,Dragon Claws Spec + Scythe + Scythe,151.4110,222,188,198.7500
+42,Dragon Claws Spec + Scythe + Scythe,151.6880,228,187,199.8200
+43,Dragon Claws Spec + Scythe + Scythe,150.4990,226,188,199.7200
+44,Dragon Claws Spec + Scythe + Scythe,150.8310,235,188,202.6700
+45,Dragon Claws Spec + Scythe + Scythe,152.7110,244,188,199.4100
+46,Dragon Claws Spec + Scythe + Scythe,149.6610,236,185,198.2300
+47,Dragon Claws Spec + Scythe + Scythe,151.8250,240,188,202.2800
+48,Dragon Claws Spec + Scythe + Scythe,150.9630,235,190,202.5100
+49,Dragon Claws Spec + Scythe + Scythe,152.1870,224,189,200.2000
+50,Dragon Claws Spec + Scythe + Scythe,151.1120,233,187,197.8100
+51,Dragon Claws Spec + Scythe + Scythe,149.6020,235,186,197.2800
+52,Dragon Claws Spec + Scythe + Scythe,149.3440,226,187,199.1500
+53,Dragon Claws Spec + Scythe + Scythe,149.2760,231,187,199.8000
+54,Dragon Claws Spec + Scythe + Scythe,150.7110,234,187,198.5300
+55,Dragon Claws Spec + Scythe + Scythe,150.3020,226,187,199.6200
+56,Dragon Claws Spec + Scythe + Scythe,151.0310,244,187,199.7700
+57,Dragon Claws Spec + Scythe + Scythe,150.7890,226,190,200.3700
+58,Dragon Claws Spec + Scythe + Scythe,150.9890,233,189,201.5200
+59,Dragon Claws Spec + Scythe + Scythe,150.8950,227,187,198.5000
+60,Dragon Claws Spec + Scythe + Scythe,148.5050,224,184,195.6800
+61,Dragon Claws Spec + Scythe + Scythe,148.6420,229,185,196.9800
+62,Dragon Claws Spec + Scythe + Scythe,148.4790,232,186,198.2500
+63,Dragon Claws Spec + Scythe + Scythe,151.2720,224,186,196.9000
+64,Dragon Claws Spec + Scythe + Scythe,148.6900,222,187,199.4900
+65,Dragon Claws Spec + Scythe + Scythe,150.1230,239,187,199.7500
+66,Dragon Claws Spec + Scythe + Scythe,149.1000,227,186,198.7700
+67,Dragon Claws Spec + Scythe + Scythe,148.5720,234,185,198.5900
+68,Dragon Claws Spec + Scythe + Scythe,150.3190,243,189,201.1600
+69,Dragon Claws Spec + Scythe + Scythe,148.5040,228,187,199.1700
+0,Scythe + Chally Spec + Chally Spec,178.4840,321,232,251.1400
+1,Scythe + Chally Spec + Chally Spec,177.4050,308,231,249.7700
+2,Scythe + Chally Spec + Chally Spec,175.3740,296,230,247.4600
+3,Scythe + Chally Spec + Chally Spec,179.4980,299,236,252.7900
+4,Scythe + Chally Spec + Chally Spec,177.4170,305,231,248.7600
+5,Scythe + Chally Spec + Chally Spec,174.4970,309,230,250.0600
+6,Scythe + Chally Spec + Chally Spec,175.9740,309,230,250.4300
+7,Scythe + Chally Spec + Chally Spec,178.0260,303,233,250.6900
+8,Scythe + Chally Spec + Chally Spec,177.6510,315,231,249.5000
+9,Scythe + Chally Spec + Chally Spec,174.4180,303,230,247.9200
+10,Scythe + Chally Spec + Chally Spec,177.2200,292,232,249.4200
+11,Scythe + Chally Spec + Chally Spec,177.9360,287,230,248.1200
+12,Scythe + Chally Spec + Chally Spec,174.3840,298,232,250.6200
+13,Scythe + Chally Spec + Chally Spec,174.8450,312,231,247.2800
+14,Scythe + Chally Spec + Chally Spec,172.5660,296,228,246.2400
+15,Scythe + Chally Spec + Chally Spec,172.7760,324,225,245.8900
+16,Scythe + Chally Spec + Chally Spec,174.8690,298,232,250.7600
+17,Scythe + Chally Spec + Chally Spec,175.9140,314,230,252.0400
+18,Scythe + Chally Spec + Chally Spec,171.7840,332,228,246.3100
+19,Scythe + Chally Spec + Chally Spec,175.0780,304,229,250.4000
+20,Scythe + Chally Spec + Chally Spec,174.5780,285,228,247.0500
+21,Scythe + Chally Spec + Chally Spec,174.1670,304,230,249.5500
+22,Scythe + Chally Spec + Chally Spec,173.8230,300,231,252.1600
+23,Scythe + Chally Spec + Chally Spec,173.1380,307,228,249.5900
+24,Scythe + Chally Spec + Chally Spec,175.1920,301,227,247.6700
+25,Scythe + Chally Spec + Chally Spec,173.0780,294,226,246.8100
+26,Scythe + Chally Spec + Chally Spec,172.9440,302,226,246.2600
+27,Scythe + Chally Spec + Chally Spec,177.2640,280,233,250.2300
+28,Scythe + Chally Spec + Chally Spec,172.8570,297,227,246.8500
+29,Scythe + Chally Spec + Chally Spec,170.9780,288,224,243.4500
+30,Scythe + Chally Spec + Chally Spec,173.6550,288,229,247.9100
+31,Scythe + Chally Spec + Chally Spec,176.4030,289,233,249.9700
+32,Scythe + Chally Spec + Chally Spec,170.8340,320,227,247.3300
+33,Scythe + Chally Spec + Chally Spec,171.2410,308,228,245.6200
+34,Scythe + Chally Spec + Chally Spec,171.5310,307,227,244.1500
+35,Scythe + Chally Spec + Chally Spec,172.7940,305,227,249.8900
+36,Scythe + Chally Spec + Chally Spec,171.2870,291,227,245.6300
+37,Scythe + Chally Spec + Chally Spec,172.4790,288,228,244.3100
+38,Scythe + Chally Spec + Chally Spec,171.3440,316,226,245.5900
+39,Scythe + Chally Spec + Chally Spec,172.8810,304,232,250.2700
+40,Scythe + Chally Spec + Chally Spec,172.5100,306,229,246.1200
+41,Scythe + Chally Spec + Chally Spec,174.0160,306,230,248.8000
+42,Scythe + Chally Spec + Chally Spec,170.8940,294,228,245.7900
+43,Scythe + Chally Spec + Chally Spec,168.3370,294,224,243.7800
+44,Scythe + Chally Spec + Chally Spec,170.8070,309,227,244.9200
+45,Scythe + Chally Spec + Chally Spec,169.8390,286,226,245.3000
+46,Scythe + Chally Spec + Chally Spec,170.9060,306,226,244.2900
+47,Scythe + Chally Spec + Chally Spec,166.7780,295,224,243.0900
+48,Scythe + Chally Spec + Chally Spec,169.9090,311,228,245.1600
+49,Scythe + Chally Spec + Chally Spec,168.9140,299,225,241.2300
+50,Scythe + Chally Spec + Chally Spec,169.1450,310,228,248.5500
+51,Scythe + Chally Spec + Chally Spec,170.0360,284,224,242.9800
+52,Scythe + Chally Spec + Chally Spec,168.3400,305,222,242.7400
+53,Scythe + Chally Spec + Chally Spec,170.4930,283,229,248.4200
+54,Scythe + Chally Spec + Chally Spec,170.8430,296,228,247.1200
+55,Scythe + Chally Spec + Chally Spec,167.6870,295,225,245.8200
+56,Scythe + Chally Spec + Chally Spec,168.1450,313,225,241.5900
+57,Scythe + Chally Spec + Chally Spec,169.5150,304,225,241.5300
+58,Scythe + Chally Spec + Chally Spec,168.4520,309,223,243.2300
+59,Scythe + Chally Spec + Chally Spec,170.2100,291,227,245.0400
+60,Scythe + Chally Spec + Chally Spec,167.0610,289,224,245.8800
+61,Scythe + Chally Spec + Chally Spec,171.0300,293,230,249.6300
+62,Scythe + Chally Spec + Chally Spec,168.2850,288,226,244.0000
+63,Scythe + Chally Spec + Chally Spec,165.7130,297,223,242.3300
+64,Scythe + Chally Spec + Chally Spec,166.3690,291,221,240.1100
+65,Scythe + Chally Spec + Chally Spec,166.2590,323,224,245.5100
+66,Scythe + Chally Spec + Chally Spec,168.9350,288,223,242.6300
+67,Scythe + Chally Spec + Chally Spec,167.7230,308,228,248.3900
+68,Scythe + Chally Spec + Chally Spec,166.7940,290,222,240.3600
+69,Scythe + Chally Spec + Chally Spec,167.1010,322,223,241.4400
+0,Scythe + Chally Spec + Dragon Dagger Spec,160.7230,290,211,228.0200
+1,Scythe + Chally Spec + Dragon Dagger Spec,159.6780,268,209,223.2000
+2,Scythe + Chally Spec + Dragon Dagger Spec,163.3690,269,212,227.3000
+3,Scythe + Chally Spec + Dragon Dagger Spec,159.9560,279,211,225.4100
+4,Scythe + Chally Spec + Dragon Dagger Spec,158.9400,289,210,226.2200
+5,Scythe + Chally Spec + Dragon Dagger Spec,160.7140,264,209,227.6000
+6,Scythe + Chally Spec + Dragon Dagger Spec,158.2500,278,207,225.0000
+7,Scythe + Chally Spec + Dragon Dagger Spec,156.4970,286,206,223.3100
+8,Scythe + Chally Spec + Dragon Dagger Spec,158.2370,261,211,228.2700
+9,Scythe + Chally Spec + Dragon Dagger Spec,157.0240,268,203,220.6500
+10,Scythe + Chally Spec + Dragon Dagger Spec,159.0380,261,208,225.0900
+11,Scythe + Chally Spec + Dragon Dagger Spec,158.8270,268,208,223.9300
+12,Scythe + Chally Spec + Dragon Dagger Spec,159.0760,271,210,225.6600
+13,Scythe + Chally Spec + Dragon Dagger Spec,158.6100,272,208,224.3100
+14,Scythe + Chally Spec + Dragon Dagger Spec,160.2350,269,208,224.8700
+15,Scythe + Chally Spec + Dragon Dagger Spec,156.6360,263,204,221.6400
+16,Scythe + Chally Spec + Dragon Dagger Spec,159.7410,267,207,224.3600
+17,Scythe + Chally Spec + Dragon Dagger Spec,159.5360,279,206,224.5700
+18,Scythe + Chally Spec + Dragon Dagger Spec,158.0280,271,209,227.4600
+19,Scythe + Chally Spec + Dragon Dagger Spec,159.2310,270,207,223.7600
+20,Scythe + Chally Spec + Dragon Dagger Spec,157.1990,277,206,225.3300
+21,Scythe + Chally Spec + Dragon Dagger Spec,156.9440,279,206,221.6300
+22,Scythe + Chally Spec + Dragon Dagger Spec,159.0140,269,207,224.6400
+23,Scythe + Chally Spec + Dragon Dagger Spec,159.5920,271,210,227.4600
+24,Scythe + Chally Spec + Dragon Dagger Spec,156.6730,265,209,224.5800
+25,Scythe + Chally Spec + Dragon Dagger Spec,155.9120,281,206,220.8300
+26,Scythe + Chally Spec + Dragon Dagger Spec,157.7190,279,209,223.5300
+27,Scythe + Chally Spec + Dragon Dagger Spec,156.5660,274,211,229.4300
+28,Scythe + Chally Spec + Dragon Dagger Spec,156.8620,266,207,224.3800
+29,Scythe + Chally Spec + Dragon Dagger Spec,154.2550,286,207,222.5400
+30,Scythe + Chally Spec + Dragon Dagger Spec,157.4300,283,209,224.4900
+31,Scythe + Chally Spec + Dragon Dagger Spec,155.2170,285,208,225.0900
+32,Scythe + Chally Spec + Dragon Dagger Spec,156.8730,283,205,225.6900
+33,Scythe + Chally Spec + Dragon Dagger Spec,155.4960,273,207,223.0400
+34,Scythe + Chally Spec + Dragon Dagger Spec,156.0770,270,206,222.8000
+35,Scythe + Chally Spec + Dragon Dagger Spec,156.9990,288,209,224.2800
+36,Scythe + Chally Spec + Dragon Dagger Spec,155.5390,262,207,221.5800
+37,Scythe + Chally Spec + Dragon Dagger Spec,156.3770,271,207,224.1700
+38,Scythe + Chally Spec + Dragon Dagger Spec,156.8360,267,206,226.5700
+39,Scythe + Chally Spec + Dragon Dagger Spec,157.6290,289,211,228.2300
+40,Scythe + Chally Spec + Dragon Dagger Spec,154.0580,269,203,221.0400
+41,Scythe + Chally Spec + Dragon Dagger Spec,156.5420,267,207,224.2200
+42,Scythe + Chally Spec + Dragon Dagger Spec,153.7580,265,207,224.1700
+43,Scythe + Chally Spec + Dragon Dagger Spec,155.6590,262,205,222.5300
+44,Scythe + Chally Spec + Dragon Dagger Spec,154.1980,269,207,225.7400
+45,Scythe + Chally Spec + Dragon Dagger Spec,153.1220,261,203,219.1000
+46,Scythe + Chally Spec + Dragon Dagger Spec,155.9180,285,209,226.0900
+47,Scythe + Chally Spec + Dragon Dagger Spec,151.2570,263,203,220.0700
+48,Scythe + Chally Spec + Dragon Dagger Spec,156.4790,271,206,221.5300
+49,Scythe + Chally Spec + Dragon Dagger Spec,151.7770,265,201,219.1600
+50,Scythe + Chally Spec + Dragon Dagger Spec,153.4180,267,206,222.5100
+51,Scythe + Chally Spec + Dragon Dagger Spec,153.4190,270,205,223.8800
+52,Scythe + Chally Spec + Dragon Dagger Spec,151.3390,262,202,217.7700
+53,Scythe + Chally Spec + Dragon Dagger Spec,153.1970,264,207,222.0100
+54,Scythe + Chally Spec + Dragon Dagger Spec,152.5870,259,201,218.5600
+55,Scythe + Chally Spec + Dragon Dagger Spec,151.9040,254,201,217.8000
+56,Scythe + Chally Spec + Dragon Dagger Spec,152.9140,266,203,220.2800
+57,Scythe + Chally Spec + Dragon Dagger Spec,153.6150,261,205,220.6200
+58,Scythe + Chally Spec + Dragon Dagger Spec,151.6060,268,202,221.2400
+59,Scythe + Chally Spec + Dragon Dagger Spec,152.3140,266,202,220.0700
+60,Scythe + Chally Spec + Dragon Dagger Spec,154.5680,269,207,222.0500
+61,Scythe + Chally Spec + Dragon Dagger Spec,153.3460,263,207,221.5400
+62,Scythe + Chally Spec + Dragon Dagger Spec,150.3020,264,204,220.8300
+63,Scythe + Chally Spec + Dragon Dagger Spec,150.9290,294,204,223.7600
+64,Scythe + Chally Spec + Dragon Dagger Spec,152.6470,263,205,220.1600
+65,Scythe + Chally Spec + Dragon Dagger Spec,150.9010,270,202,219.4900
+66,Scythe + Chally Spec + Dragon Dagger Spec,149.8250,256,202,216.9400
+67,Scythe + Chally Spec + Dragon Dagger Spec,149.6360,275,204,220.3400
+68,Scythe + Chally Spec + Dragon Dagger Spec,150.5540,266,201,216.7500
+69,Scythe + Chally Spec + Dragon Dagger Spec,150.0950,281,200,217.5700
+0,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,142.0190,244,186,201.7900
+1,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,143.5160,251,185,202.3000
+2,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,143.8770,237,186,201.5600
+3,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,141.4870,234,184,197.9400
+4,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,142.9810,238,187,199.7900
+5,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,143.4440,248,190,203.1700
+6,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,143.0400,235,187,200.3800
+7,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,140.9440,232,183,197.0900
+8,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,142.2750,253,184,199.4900
+9,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,142.2940,238,187,201.0000
+10,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,140.3640,236,184,198.2300
+11,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,142.7820,232,185,201.4700
+12,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,143.3900,251,186,202.8900
+13,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,140.4370,234,183,197.3700
+14,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,139.1610,239,184,197.2500
+15,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,144.5540,237,187,200.6100
+16,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,143.0400,241,188,201.3400
+17,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,141.4660,239,186,201.4200
+18,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,141.3440,230,184,199.8500
+19,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,141.8720,258,186,199.2200
+20,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,138.5620,238,184,199.0600
+21,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,140.0830,237,183,199.2700
+22,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,139.7850,242,183,199.4100
+23,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,140.0300,245,183,199.2200
+24,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,141.5830,243,185,200.3000
+25,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,140.5710,227,185,197.7000
+26,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,141.6050,249,184,200.1600
+27,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,140.5020,259,186,200.4600
+28,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,140.5030,243,186,199.7900
+29,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,140.3380,242,185,199.6700
+30,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,138.6750,229,184,199.2600
+31,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,140.2760,242,186,200.9300
+32,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,138.9340,239,184,197.7000
+33,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,139.8680,240,183,200.9900
+34,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,138.5920,249,182,198.2000
+35,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,140.2170,242,185,200.8800
+36,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,139.3230,239,184,199.4100
+37,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,139.4690,245,184,200.8800
+38,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,137.9720,229,181,193.4000
+39,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,136.5000,235,182,194.5400
+40,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,138.4990,249,182,197.4900
+41,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,137.8930,242,179,196.0100
+42,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,137.8530,252,183,199.0100
+43,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,137.0990,241,183,198.0700
+44,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,139.1480,231,181,195.9900
+45,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,136.6480,238,180,196.8700
+46,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,137.4830,244,184,197.1300
+47,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,136.8090,247,182,200.1200
+48,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,137.0950,232,179,197.3000
+49,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,139.6080,234,182,197.1500
+50,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,137.6390,232,182,196.9500
+51,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,135.0520,237,179,196.9700
+52,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,135.3300,236,180,195.8600
+53,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,137.2160,230,180,194.8800
+54,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,138.4070,246,183,199.1500
+55,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,135.5110,235,182,197.0800
+56,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,135.2030,258,182,196.3500
+57,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,137.4260,244,184,201.2600
+58,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,135.0460,237,180,196.3700
+59,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,135.1420,230,181,197.9500
+60,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,136.7030,242,181,196.6700
+61,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,136.6120,230,182,198.4700
+62,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,135.9080,241,179,196.5100
+63,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,135.7070,250,181,197.2300
+64,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,134.8380,242,179,196.3200
+65,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,134.6050,242,180,194.2300
+66,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,133.9560,232,177,193.0300
+67,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,133.7130,225,178,194.1000
+68,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,133.9410,240,182,198.6200
+69,Scythe + Dragon Dagger Spec + Dragon Dagger Spec,135.7800,230,181,196.3600
+0,Scythe + Scythe + Chally Spec,155.9970,245,202,217.8700
+1,Scythe + Scythe + Chally Spec,154.9250,261,201,216.8200
+2,Scythe + Scythe + Chally Spec,154.7400,262,201,217.2800
+3,Scythe + Scythe + Chally Spec,156.4910,259,203,220.2800
+4,Scythe + Scythe + Chally Spec,154.2040,255,205,219.9700
+5,Scythe + Scythe + Chally Spec,155.0620,270,202,219.7100
+6,Scythe + Scythe + Chally Spec,155.1780,259,202,215.3300
+7,Scythe + Scythe + Chally Spec,156.4700,254,202,216.9900
+8,Scythe + Scythe + Chally Spec,154.9290,256,201,219.0800
+9,Scythe + Scythe + Chally Spec,153.5950,260,201,217.9300
+10,Scythe + Scythe + Chally Spec,155.0990,252,202,217.9600
+11,Scythe + Scythe + Chally Spec,153.8620,262,199,217.4600
+12,Scythe + Scythe + Chally Spec,154.1220,260,200,215.5700
+13,Scythe + Scythe + Chally Spec,154.3030,253,203,217.0400
+14,Scythe + Scythe + Chally Spec,155.5060,257,206,218.6600
+15,Scythe + Scythe + Chally Spec,152.9040,252,199,215.7100
+16,Scythe + Scythe + Chally Spec,152.3110,264,201,217.5400
+17,Scythe + Scythe + Chally Spec,155.8370,255,204,220.0200
+18,Scythe + Scythe + Chally Spec,151.5050,256,199,217.5100
+19,Scythe + Scythe + Chally Spec,152.8840,258,198,211.9000
+20,Scythe + Scythe + Chally Spec,153.7790,262,200,215.0100
+21,Scythe + Scythe + Chally Spec,154.0100,271,202,215.7300
+22,Scythe + Scythe + Chally Spec,152.3190,260,198,214.5900
+23,Scythe + Scythe + Chally Spec,150.5460,275,196,213.6000
+24,Scythe + Scythe + Chally Spec,151.7760,256,202,217.4900
+25,Scythe + Scythe + Chally Spec,153.4070,258,200,215.4300
+26,Scythe + Scythe + Chally Spec,151.9690,258,201,217.5700
+27,Scythe + Scythe + Chally Spec,152.4740,260,199,217.3400
+28,Scythe + Scythe + Chally Spec,150.5220,259,197,214.7300
+29,Scythe + Scythe + Chally Spec,150.5840,256,200,217.2800
+30,Scythe + Scythe + Chally Spec,151.0130,274,198,213.8900
+31,Scythe + Scythe + Chally Spec,151.6270,252,198,215.0000
+32,Scythe + Scythe + Chally Spec,151.6310,276,196,213.2300
+33,Scythe + Scythe + Chally Spec,151.1840,250,198,211.6700
+34,Scythe + Scythe + Chally Spec,150.8780,257,202,216.4700
+35,Scythe + Scythe + Chally Spec,151.4780,260,201,215.5100
+36,Scythe + Scythe + Chally Spec,152.2190,260,201,216.8000
+37,Scythe + Scythe + Chally Spec,152.2830,271,199,216.9400
+38,Scythe + Scythe + Chally Spec,152.0910,254,200,216.2400
+39,Scythe + Scythe + Chally Spec,150.7980,258,199,217.0600
+40,Scythe + Scythe + Chally Spec,153.1930,266,201,219.7200
+41,Scythe + Scythe + Chally Spec,151.2190,258,198,212.9600
+42,Scythe + Scythe + Chally Spec,150.0260,260,199,216.7100
+43,Scythe + Scythe + Chally Spec,149.7910,270,196,213.2900
+44,Scythe + Scythe + Chally Spec,149.5490,253,198,215.6300
+45,Scythe + Scythe + Chally Spec,146.9690,253,194,211.4100
+46,Scythe + Scythe + Chally Spec,151.4440,270,198,216.6900
+47,Scythe + Scythe + Chally Spec,148.8680,263,198,215.7700
+48,Scythe + Scythe + Chally Spec,150.4530,251,197,213.0900
+49,Scythe + Scythe + Chally Spec,149.5820,250,196,214.3100
+50,Scythe + Scythe + Chally Spec,148.2310,248,199,213.9500
+51,Scythe + Scythe + Chally Spec,147.4690,252,195,212.8800
+52,Scythe + Scythe + Chally Spec,146.7060,259,194,211.1300
+53,Scythe + Scythe + Chally Spec,149.6320,266,196,212.6100
+54,Scythe + Scythe + Chally Spec,148.1470,260,197,213.4300
+55,Scythe + Scythe + Chally Spec,150.0320,254,200,216.5300
+56,Scythe + Scythe + Chally Spec,147.9840,261,198,213.4700
+57,Scythe + Scythe + Chally Spec,150.8680,266,198,216.4500
+58,Scythe + Scythe + Chally Spec,148.5880,261,197,216.5200
+59,Scythe + Scythe + Chally Spec,149.2050,258,200,215.2600
+60,Scythe + Scythe + Chally Spec,146.2970,248,195,210.3000
+61,Scythe + Scythe + Chally Spec,147.8340,265,196,212.2700
+62,Scythe + Scythe + Chally Spec,148.5900,257,202,217.3300
+63,Scythe + Scythe + Chally Spec,147.9900,265,199,216.3300
+64,Scythe + Scythe + Chally Spec,146.6030,257,198,213.4200
+65,Scythe + Scythe + Chally Spec,149.0640,259,197,215.0700
+66,Scythe + Scythe + Chally Spec,148.4790,258,199,217.4700
+67,Scythe + Scythe + Chally Spec,147.6800,256,195,211.2100
+68,Scythe + Scythe + Chally Spec,148.0220,246,201,216.7000
+69,Scythe + Scythe + Chally Spec,148.2160,252,199,214.7800
+0,Scythe + Scythe + Dragon Dagger Spec,137.8180,234,177,190.1400
+1,Scythe + Scythe + Dragon Dagger Spec,138.3980,231,179,192.1400
+2,Scythe + Scythe + Dragon Dagger Spec,140.5650,236,181,194.4500
+3,Scythe + Scythe + Dragon Dagger Spec,137.5350,226,177,190.3100
+4,Scythe + Scythe + Dragon Dagger Spec,138.6880,232,180,193.6100
+5,Scythe + Scythe + Dragon Dagger Spec,136.3570,219,178,188.7800
+6,Scythe + Scythe + Dragon Dagger Spec,137.4910,243,178,191.3200
+7,Scythe + Scythe + Dragon Dagger Spec,139.9170,237,179,194.0100
+8,Scythe + Scythe + Dragon Dagger Spec,137.6360,224,177,190.4500
+9,Scythe + Scythe + Dragon Dagger Spec,137.6340,221,180,193.1400
+10,Scythe + Scythe + Dragon Dagger Spec,136.8840,217,177,191.8700
+11,Scythe + Scythe + Dragon Dagger Spec,136.1630,237,175,189.9900
+12,Scythe + Scythe + Dragon Dagger Spec,136.5890,237,176,191.3500
+13,Scythe + Scythe + Dragon Dagger Spec,135.5520,219,177,190.5200
+14,Scythe + Scythe + Dragon Dagger Spec,137.5440,231,178,192.8300
+15,Scythe + Scythe + Dragon Dagger Spec,137.2440,225,178,192.2000
+16,Scythe + Scythe + Dragon Dagger Spec,137.0940,239,178,194.2700
+17,Scythe + Scythe + Dragon Dagger Spec,136.2460,230,179,193.5300
+18,Scythe + Scythe + Dragon Dagger Spec,137.0010,219,178,190.7800
+19,Scythe + Scythe + Dragon Dagger Spec,136.1000,220,177,191.6700
+20,Scythe + Scythe + Dragon Dagger Spec,136.7340,222,178,191.7500
+21,Scythe + Scythe + Dragon Dagger Spec,136.0530,227,176,192.1500
+22,Scythe + Scythe + Dragon Dagger Spec,135.8840,237,177,191.4600
+23,Scythe + Scythe + Dragon Dagger Spec,137.2550,235,179,191.1200
+24,Scythe + Scythe + Dragon Dagger Spec,137.1940,219,178,191.5100
+25,Scythe + Scythe + Dragon Dagger Spec,136.1690,226,175,189.2800
+26,Scythe + Scythe + Dragon Dagger Spec,132.9000,232,172,188.2600
+27,Scythe + Scythe + Dragon Dagger Spec,135.5630,229,176,191.6100
+28,Scythe + Scythe + Dragon Dagger Spec,134.7230,218,177,189.6800
+29,Scythe + Scythe + Dragon Dagger Spec,135.0420,216,175,189.0500
+30,Scythe + Scythe + Dragon Dagger Spec,136.0450,231,177,191.4300
+31,Scythe + Scythe + Dragon Dagger Spec,135.5900,227,177,192.3600
+32,Scythe + Scythe + Dragon Dagger Spec,136.5060,216,179,191.9500
+33,Scythe + Scythe + Dragon Dagger Spec,134.6960,220,175,187.7200
+34,Scythe + Scythe + Dragon Dagger Spec,135.7580,219,178,191.5500
+35,Scythe + Scythe + Dragon Dagger Spec,134.5460,226,176,189.0700
+36,Scythe + Scythe + Dragon Dagger Spec,133.5380,216,174,188.6800
+37,Scythe + Scythe + Dragon Dagger Spec,135.5950,237,177,191.9700
+38,Scythe + Scythe + Dragon Dagger Spec,134.5440,232,174,188.9200
+39,Scythe + Scythe + Dragon Dagger Spec,132.9860,227,176,187.9800
+40,Scythe + Scythe + Dragon Dagger Spec,134.9160,242,178,191.1700
+41,Scythe + Scythe + Dragon Dagger Spec,133.1150,232,176,189.0900
+42,Scythe + Scythe + Dragon Dagger Spec,133.8020,234,173,188.4900
+43,Scythe + Scythe + Dragon Dagger Spec,132.3310,224,173,187.0700
+44,Scythe + Scythe + Dragon Dagger Spec,134.9700,235,178,190.7300
+45,Scythe + Scythe + Dragon Dagger Spec,132.2180,214,174,187.6700
+46,Scythe + Scythe + Dragon Dagger Spec,134.2780,227,176,189.9400
+47,Scythe + Scythe + Dragon Dagger Spec,132.3450,220,175,187.9800
+48,Scythe + Scythe + Dragon Dagger Spec,132.8560,230,178,188.0800
+49,Scythe + Scythe + Dragon Dagger Spec,132.1560,235,175,192.0700
+50,Scythe + Scythe + Dragon Dagger Spec,132.6330,233,175,187.7200
+51,Scythe + Scythe + Dragon Dagger Spec,133.0340,232,174,187.9200
+52,Scythe + Scythe + Dragon Dagger Spec,131.1560,222,172,188.7700
+53,Scythe + Scythe + Dragon Dagger Spec,130.9530,239,174,188.8300
+54,Scythe + Scythe + Dragon Dagger Spec,133.4110,238,176,190.8600
+55,Scythe + Scythe + Dragon Dagger Spec,133.5960,220,178,192.0200
+56,Scythe + Scythe + Dragon Dagger Spec,131.9380,227,176,189.4200
+57,Scythe + Scythe + Dragon Dagger Spec,133.0890,238,173,189.7100
+58,Scythe + Scythe + Dragon Dagger Spec,132.4390,222,176,188.8700
+59,Scythe + Scythe + Dragon Dagger Spec,130.3390,237,173,188.5500
+60,Scythe + Scythe + Dragon Dagger Spec,129.9170,221,173,187.1700
+61,Scythe + Scythe + Dragon Dagger Spec,130.2840,223,172,187.1900
+62,Scythe + Scythe + Dragon Dagger Spec,131.6720,223,174,186.7000
+63,Scythe + Scythe + Dragon Dagger Spec,130.7070,219,173,187.5100
+64,Scythe + Scythe + Dragon Dagger Spec,132.6010,230,177,190.8900
+65,Scythe + Scythe + Dragon Dagger Spec,131.2650,216,174,186.6900
+66,Scythe + Scythe + Dragon Dagger Spec,132.0560,237,174,192.0600
+67,Scythe + Scythe + Dragon Dagger Spec,131.5410,220,171,186.0200
+68,Scythe + Scythe + Dragon Dagger Spec,129.3540,228,170,185.8900
+69,Scythe + Scythe + Dragon Dagger Spec,130.5470,234,173,187.7000

@@ -69,9 +69,15 @@ class Player:
         self.effective_att_level = self.calc_eff_attack_level()
         self.effective_str_level = self.calc_eff_strength_level()
         self.effective_def_level = self.calc_eff_defence_level()
+        self.effective_range_level = self.calc_eff_range_level()
+        self.effective_range_strength = self.calc_eff_range_strength()
+        self.effective_range_speed = self.calc_eff_range_speed()
+        self.effective_magic_level = self.calc_eff_magic_level()    #placeholder for magic effective level calculation
+        self.effective_mage_strength = self.calc_eff_mage_strength()      # Placeholder for magic effective level calculation
         self.max_hit = self.calc_max_hit(monster_weak_to_salve)
         self.attack_roll = self.calc_att_roll(attack_style, monster_weak_to_salve)
         self.def_roll = self.calc_def_roll(attack_style)
+
     def calc_eff_attack_level(self):
         eff_att_level = self.stats.attack_level
         if(self.super_combat): eff_att_level += 19
@@ -107,6 +113,45 @@ class Player:
         if(self.weapon.attack_style == "Controlled"): eff_def_lvl += 1
         eff_def_lvl += 8
         return eff_def_lvl
+    # ───────────────────────────────────────────────────────────────
+    def calc_eff_range_level(self):
+        eff_range_lvl = self.stats.ranged_level
+        if(self.range_potion): eff_range_lvl += 13
+        if(self.rigour_active):
+            eff_range_lvl *= 1.20
+            eff_range_lvl = math.floor(eff_range_lvl)
+        if(self.weapon.attack_style == "Accurate"): eff_range_lvl += 3
+        if(self.weapon.attack_style == "Rapid"): eff_range_lvl += 1
+        return eff_range_lvl
+    
+    def calc_eff_range_strength(self):
+        eff_range_str = self.stats.ranged_strength_bonus
+        if(self.rigour_active):
+            eff_range_str *= 1.23
+            eff_range_str = math.floor(eff_range_str)
+        return eff_range_str
+    
+    def calc_eff_range_speed(self):
+        eff_range_speed = self.weapon.attack_speed
+        if(self.weapon.attack_style == "Rapid"): eff_range_speed -= 1
+        return eff_range_speed
+
+    def calc_eff_magic_level(self):
+        eff_magic_lvl = self.stats.magic_level
+        if(self.magic_potion): eff_magic_lvl += 13 
+        if(self.augury_active):
+            eff_magic_lvl *= 1.25
+            eff_magic_lvl = math.floor(eff_magic_lvl)
+        return eff_magic_lvl 
+    
+    def calc_eff_mage_strength(self):
+        eff_mage_str = self.stats.magic_strength_bonus
+        if(self.augury_active):
+            eff_mage_str *= 1.04
+            eff_mage_str = math.floor(eff_mage_str)
+        return eff_mage_str
+    
+    # ──────────────────────────────────────────────────────────────────
     @beartype
     def calc_att_roll(self, attack_style:str=None, monster_weak_to_salve:bool=False):
         if attack_style is None:
@@ -151,7 +196,11 @@ class Player:
         weapon:         Weapon  =None,
         super_combat:   bool    =True,
         piety_active:   bool    =True,
-        wearing_salve:  bool    =False
+        wearing_salve:  bool    =False,
+        range_potion:   bool    =True,
+        rigour_active:  bool    =True,
+        magic_potion:   bool    =True,
+        augury_active:  bool    =True
         ):
         
         if stats is None:
@@ -165,6 +214,10 @@ class Player:
 
         self.wearing_salve = wearing_salve
         self.super_combat = super_combat
+        self.range_potion = range_potion
+        self.rigour_active = rigour_active
+        self.magic_potion = magic_potion
+        self.augury_active = augury_active
         self.piety_active = piety_active
         self.weapon = weapon
 

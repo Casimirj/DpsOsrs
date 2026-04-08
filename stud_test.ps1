@@ -9,8 +9,13 @@ cd ..\..
 # Set PYTHONPATH and run the test script
 $env:PYTHONPATH = "./app"
 #python test.py
-python testXarpus.py
-deactivate
+##python testXarpusScreech.py
+##python XarpDefReduc.py
+##python SpecTest.py
+##python NyloBossDamage.py
+##python XarpDefEffects.py
+##python XarpWrSim.py
+python XarpScythingSims.py
 
 # Calculate and display duration
 $end_time = Get-Date
