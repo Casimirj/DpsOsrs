@@ -1,8 +1,9 @@
 
-import random
 import math
-from Weapon import Weapon
-from Stats import Stats
+import random
+
+from app.Stats import Stats
+from app.Weapon import Weapon
 
 
 class Scythe(Weapon):

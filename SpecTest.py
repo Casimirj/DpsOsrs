@@ -1,45 +1,19 @@
-import sys
-import os
 from datetime import datetime
 
-# Add the app directory to the Python path FIRST
-app_dir = os.path.join(os.path.dirname(__file__), 'app')
-sys.path.insert(0, app_dir)
-
-# Pre-load the correct modules and create aliases in sys.modules
-# This ensures all submodules use the same class instances
-import NPC
-import Weapon
-import Stats
-import Player
-
-# Create module aliases so Weapons.Weapon, Monsters.NPC, etc. all resolve to the same modules
-sys.modules['Monsters.NPC'] = sys.modules['NPC']
-sys.modules['Weapons.Weapon'] = sys.modules['Weapon']
-sys.modules['Weapons.Stats'] = sys.modules['Stats']
-sys.modules['Weapons.NPC'] = sys.modules['NPC']
-sys.modules['Loadouts.Stats'] = sys.modules['Stats']
-sys.modules['Loadouts.Weapon'] = sys.modules['Weapon']
-sys.modules['Loadouts.Player'] = sys.modules['Player']
-
-from Monsters.Xarpus import Xarpus
-from Monsters.Nylo_boss import P3Verzik as Nylo_boss
-from Monsters.Maiden import Maiden
-from Monsters.Sotetseg import Sotetseg
-
-from Player import Player
-from Weapons.Scythe import Scythe
-from Weapons.NoxHally import NoxHally
-from Weapons.Fists import Fists
-from Weapons.Bgs import Bgs
-from Weapons.ElderMaul import ElderMaul 
-from Weapons.DragonClaws import DragonClaws
-from Weapons.CrystalHalberd import CrystalHalberd
-
-
-
-from Loadouts.OathTorvaRancour import player as oath_torva_rancour
-from Loadouts.OathTorvaSalve import player as oath_torva_salve
+from app.Loadouts.OathTorvaRancour import player as oath_torva_rancour
+from app.Loadouts.OathTorvaSalve import player as oath_torva_salve
+from app.Monsters.Maiden import Maiden
+from app.Monsters.Nylo_boss import P3Verzik as Nylo_boss
+from app.Monsters.Sotetseg import Sotetseg
+from app.Monsters.Xarpus import Xarpus
+from app.Player import Player
+from app.Weapons.Bgs import Bgs
+from app.Weapons.CrystalHalberd import CrystalHalberd
+from app.Weapons.DragonClaws import DragonClaws
+from app.Weapons.ElderMaul import ElderMaul
+from app.Weapons.Fists import Fists
+from app.Weapons.NoxHally import NoxHally
+from app.Weapons.Scythe import Scythe
 
 
 number_of_players = 5

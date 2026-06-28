@@ -1,4 +1,4 @@
-from Monsters.NPC import NPC
+from app.NPC import NPC
 
 
 class P2Verzik(NPC):
@@ -42,4 +42,3 @@ class P2Verzik(NPC):
 
         # stats = Stats(input_stats)
         super().__init__(input_stats, weak_to_salve=False, minimum_def=200)
-

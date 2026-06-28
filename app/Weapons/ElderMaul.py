@@ -1,9 +1,7 @@
 
-import random
-import math
-from Weapons.Weapon import Weapon
-from Monsters.NPC import NPC
-from Stats import Stats
+from app.NPC import NPC
+from app.Stats import Stats
+from app.Weapon import Weapon
 
 
 class ElderMaul(Weapon):

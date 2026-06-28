@@ -1,16 +1,13 @@
-
-
-from Monsters.Bloat import Bloat
-from Monsters.Sotetseg import Sotetseg
-from Player import Player
-from Weapons.Scythe import Scythe
-from Weapons.NoxHally import NoxHally
-from Weapons.Fists import Fists
-from Weapons.Bgs import Bgs
-from Weapons.DragonClaws import DragonClaws
-
-from Loadouts.OathTorvaRancour import player as oath_torva_rancour
-from Loadouts.OathTorvaSalve import player as oath_torva_salve
+from app.Loadouts.OathTorvaRancour import player as oath_torva_rancour
+from app.Loadouts.OathTorvaSalve import player as oath_torva_salve
+from app.Monsters.Bloat import Bloat
+from app.Monsters.Sotetseg import Sotetseg
+from app.Player import Player
+from app.Weapons.Bgs import Bgs
+from app.Weapons.DragonClaws import DragonClaws
+from app.Weapons.Fists import Fists
+from app.Weapons.NoxHally import NoxHally
+from app.Weapons.Scythe import Scythe
 
 
 number_of_players = 5

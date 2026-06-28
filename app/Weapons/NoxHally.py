@@ -1,8 +1,6 @@
 
-import random
-import math
-from Weapon import Weapon
-from Stats import Stats
+from app.Stats import Stats
+from app.Weapon import Weapon
 
 
 class NoxHally(Weapon):
@@ -27,4 +25,3 @@ class NoxHally(Weapon):
             attack_range=2,
             has_special_attack=False
         )
-

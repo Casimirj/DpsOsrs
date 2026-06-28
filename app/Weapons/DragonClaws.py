@@ -3,9 +3,9 @@ import random
 
 from beartype import beartype
 
-from Weapon import Weapon
-from NPC import NPC
-from Stats import Stats
+from app.NPC import NPC
+from app.Stats import Stats
+from app.Weapon import Weapon
 
 
 class DragonClaws(Weapon):
@@ -80,4 +80,3 @@ class DragonClaws(Weapon):
             chance = random.randint(1,3) 
             if chance > 1: return 2
             else: return 0 # 2/3rd chance of hitting 2, else 0
-

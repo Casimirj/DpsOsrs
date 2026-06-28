@@ -1,7 +1,7 @@
 import random
-import math
-from Weapon import Weapon
-from Stats import Stats
+
+from app.Stats import Stats
+from app.Weapon import Weapon
 
 
 class SulfurBlades(Weapon):

@@ -1,0 +1,229 @@
+:root {
+  --bg: #121212;
+  --bg-elevated: #1b1b1b;
+  --bg-soft: #262626;
+  --border: #444444;
+  --text: #f2f2f2;
+  --text-muted: #aaaaaa;
+  --accent: #d4d4d4;
+  --green: #525252;
+  --blue: #5a5a5a;
+  --orange: #6a6a6a;
+  --red: #505050;
+}
+
+body {
+  background: #282828;
+  color: var(--text);
+}
+
+.swagger-ui,
+.swagger-ui .wrapper {
+  background: transparent;
+  color: var(--text);
+}
+
+.swagger-ui .topbar,
+.swagger-ui .information-container,
+.swagger-ui .scheme-container {
+  background: transparent;
+}
+
+.swagger-ui .info .title,
+.swagger-ui .info hgroup.main a,
+.swagger-ui .info p,
+.swagger-ui .info li,
+.swagger-ui .info table,
+.swagger-ui .markdown p,
+.swagger-ui .markdown li,
+.swagger-ui .renderedMarkdown p,
+.swagger-ui .renderedMarkdown li,
+.swagger-ui .opblock-tag,
+.swagger-ui .opblock-summary-path,
+.swagger-ui .opblock-summary-description,
+.swagger-ui .parameter__name,
+.swagger-ui .parameter__type,
+.swagger-ui .parameter__deprecated,
+.swagger-ui .response-col_status,
+.swagger-ui .response-col_description,
+.swagger-ui .tab li,
+.swagger-ui label,
+.swagger-ui .model,
+.swagger-ui .model-title,
+.swagger-ui .model-toggle,
+.swagger-ui .prop-name,
+.swagger-ui .prop-type,
+.swagger-ui .prop-format,
+.swagger-ui .btn,
+.swagger-ui section.models h4,
+.swagger-ui section.models h5,
+.swagger-ui .responses-inner h4,
+.swagger-ui .responses-inner h5,
+.swagger-ui .opblock-description-wrapper p,
+.swagger-ui .opblock-external-docs-wrapper p,
+.swagger-ui .opblock-title_normal p {
+  color: var(--text) !important;
+}
+
+.swagger-ui .info a,
+.swagger-ui .link,
+.swagger-ui .opblock-summary-path__deprecated {
+  color: var(--accent) !important;
+}
+
+.swagger-ui .opblock-tag small,
+.swagger-ui .parameter__extension,
+.swagger-ui .parameter__in,
+.swagger-ui .response-col_links,
+.swagger-ui .model-hint,
+.swagger-ui .responses-inner small,
+.swagger-ui .copy-to-clipboard {
+  color: var(--text-muted) !important;
+}
+
+.swagger-ui .scheme-container,
+.swagger-ui .opblock,
+.swagger-ui .responses-table,
+.swagger-ui table tbody tr td,
+.swagger-ui table thead tr th,
+.swagger-ui .response-control-media-type,
+.swagger-ui .model-container,
+.swagger-ui section.models,
+.swagger-ui .dialog-ux .modal-ux,
+.swagger-ui .authorization__btn {
+  background: rgba(27, 27, 27, 0.94) !important;
+  border-color: var(--border) !important;
+  color: var(--text) !important;
+}
+
+.swagger-ui .scheme-container {
+  box-shadow: none;
+  border-radius: 14px;
+}
+
+.swagger-ui .opblock {
+  box-shadow: none;
+  border-width: 1px;
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.swagger-ui .opblock .opblock-summary,
+.swagger-ui .responses-inner,
+.swagger-ui .opblock-body,
+.swagger-ui .model-box {
+  background: rgba(27, 27, 27, 0.94) !important;
+}
+
+.swagger-ui .opblock-section-header,
+.swagger-ui .tab li button.tablinks,
+.swagger-ui .servers > label {
+  background: var(--bg-soft) !important;
+  color: var(--text) !important;
+  border-color: var(--border) !important;
+}
+
+.swagger-ui .opblock.opblock-get {
+  background: rgba(36, 36, 36, 0.9) !important;
+  border-color: rgba(110, 110, 110, 0.45) !important;
+}
+
+.swagger-ui .opblock.opblock-get .opblock-summary-method {
+  background: #5a5a5a !important;
+}
+
+.swagger-ui .opblock.opblock-post {
+  background: rgba(36, 36, 36, 0.9) !important;
+  border-color: rgba(110, 110, 110, 0.45) !important;
+}
+
+.swagger-ui .opblock.opblock-post .opblock-summary-method {
+  background: var(--green) !important;
+}
+
+.swagger-ui .opblock.opblock-put,
+.swagger-ui .opblock.opblock-patch {
+  background: rgba(36, 36, 36, 0.9) !important;
+  border-color: rgba(110, 110, 110, 0.45) !important;
+}
+
+.swagger-ui .opblock.opblock-put .opblock-summary-method,
+.swagger-ui .opblock.opblock-patch .opblock-summary-method {
+  background: var(--orange) !important;
+}
+
+.swagger-ui .opblock.opblock-delete {
+  background: rgba(36, 36, 36, 0.9) !important;
+  border-color: rgba(110, 110, 110, 0.45) !important;
+}
+
+.swagger-ui .opblock.opblock-delete .opblock-summary-method {
+  background: var(--red) !important;
+}
+
+.swagger-ui .opblock-summary-method {
+  border-radius: 999px;
+  color: #f8fafc !important;
+}
+
+.swagger-ui select,
+.swagger-ui textarea,
+.swagger-ui input[type=text],
+.swagger-ui input[type=password],
+.swagger-ui input[type=search],
+.swagger-ui input[type=email],
+.swagger-ui input[type=file] {
+  background: #181818 !important;
+  border: 1px solid var(--border) !important;
+  color: var(--text) !important;
+}
+
+.swagger-ui .btn.execute {
+  background: #5a5a5a !important;
+  border-color: #5a5a5a !important;
+  color: #fafafa !important;
+}
+
+.swagger-ui .btn.cancel {
+  background: transparent !important;
+  border-color: var(--border) !important;
+  color: var(--text) !important;
+}
+
+.swagger-ui .highlight-code,
+.swagger-ui .microlight,
+.swagger-ui pre,
+.swagger-ui code,
+.swagger-ui .example,
+.swagger-ui .example .microlight,
+.swagger-ui .curl,
+.swagger-ui .curl-command {
+  color: #e4e4e7 !important;
+}
+
+.swagger-ui .microlight {
+  filter: none !important;
+}
+
+.swagger-ui .response-col_status {
+  font-weight: 700;
+}
+
+.swagger-ui ::placeholder {
+  color: #8f8f8f !important;
+}
+
+.swagger-ui .expand-operation,
+.swagger-ui .expand-methods {
+  fill: var(--text) !important;
+}
+
+.swagger-ui .download-contents,
+.swagger-ui .servers-title,
+.swagger-ui .servers > label select {
+  color: var(--text) !important;
+}
+
+.swagger-ui .opblock .opblock-section-header h4 {
+  color: #ffffff !important;
+}

@@ -1,4 +1,4 @@
-from Monsters.NPC import NPC
+from app.NPC import NPC
 
 
 class Xarpus(NPC):

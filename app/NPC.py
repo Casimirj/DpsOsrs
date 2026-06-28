@@ -1,7 +1,12 @@
 from typing import Optional, Union
-from beartype import beartype
 
-from Stats import Stats
+try:
+    from beartype import beartype
+except ImportError:
+    def beartype(func):
+        return func
+
+from app.Stats import Stats
 
 
 class NPC:

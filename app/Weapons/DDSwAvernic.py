@@ -1,8 +1,6 @@
-import math
-
-from Weapon import Weapon
-from NPC import NPC
-from Stats import Stats
+from app.NPC import NPC
+from app.Stats import Stats
+from app.Weapon import Weapon
 
 
 class DragonDagger1(Weapon):

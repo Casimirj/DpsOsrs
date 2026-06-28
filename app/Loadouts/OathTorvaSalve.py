@@ -1,4 +1,4 @@
-from Player import Player
+from app.Player import Player
 
 stats = {
     'hp_level': 99,

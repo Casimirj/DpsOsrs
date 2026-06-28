@@ -1,6 +1,6 @@
 import random
 
-from NPC import NPC
+from app.NPC import NPC
 
 class Weapon():
 

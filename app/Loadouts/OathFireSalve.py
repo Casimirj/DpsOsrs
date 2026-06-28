@@ -1,4 +1,4 @@
-from Player import Player
+from app.Player import Player
 
 ##actually infernal cape!!!
 stats = {

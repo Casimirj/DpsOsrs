@@ -1,4 +1,4 @@
-from NPC import NPC
+from app.NPC import NPC
 
 
 class Sotetseg(NPC):
@@ -41,4 +41,3 @@ class Sotetseg(NPC):
 
         # stats = Stats(input_stats)
         super().__init__(input_stats, minimum_def=100)
-

@@ -1,8 +1,6 @@
 
-import random
-import math
-from Weapon import Weapon
-from Stats import Stats
+from app.Stats import Stats
+from app.Weapon import Weapon
 
 
 class Fists(Weapon):
@@ -21,4 +19,3 @@ class Fists(Weapon):
             attack_range=1,
             has_special_attack=False
         )
-

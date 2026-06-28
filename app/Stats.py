@@ -1,9 +1,12 @@
+from __future__ import annotations
+
 import json
-from beartype import beartype
 
-from typing import Optional, Union
-
-import Stats
+try:
+    from beartype import beartype
+except ImportError:
+    def beartype(func):
+        return func
 
 
 class Stats:
@@ -129,5 +132,3 @@ class Stats:
             self.ranged_def_light = input_stats.get("ranged_def_light") if input_stats.get("ranged_def_light") is not None else self.ranged_def_light
             self.ranged_def_med = input_stats.get("ranged_def_med") if input_stats.get("ranged_def_med") is not None else self.ranged_def_med
             self.ranged_def_heavy = input_stats.get("ranged_def_heavy") if input_stats.get("ranged_def_heavy") is not None else self.ranged_def_heavy
-
-

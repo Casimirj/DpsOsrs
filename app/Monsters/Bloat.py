@@ -1,7 +1,7 @@
 import math
 import random
 
-from NPC import NPC
+from app.NPC import NPC
 
 
 class Bloat(NPC):
@@ -65,6 +65,5 @@ class Bloat(NPC):
     def get_walk_duration(self):
         return random.random(self.min_walk_duration, self.max_walk_durration)
             
-
 
 
