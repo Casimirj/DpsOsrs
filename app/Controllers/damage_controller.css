@@ -227,3 +227,60 @@ body {
 .swagger-ui .opblock .opblock-section-header h4 {
   color: #ffffff !important;
 }
+
+.swagger-ui section.models.is-open {
+  background: rgba(27, 27, 27, 0.94) !important;
+}
+
+.swagger-ui .model-container .model-box {
+  background: rgba(27, 27, 27, 0.94) !important;
+}
+
+.swagger-ui .model-container .model-box .model {
+  background: transparent !important;
+}
+
+.swagger-ui span.model {
+  background: transparent !important;
+}
+
+.swagger-ui .model-box-control,
+.swagger-ui .model-title__text {
+  color: var(--text) !important;
+}
+
+.swagger-ui .model-toggle {
+  filter: invert(1) brightness(0.85);
+}
+
+.swagger-ui .model-toggle.collapsed {
+  filter: invert(1) brightness(0.85);
+}
+
+.swagger-ui .prop-type {
+  color: var(--text-muted) !important;
+}
+
+.swagger-ui table.model,
+.swagger-ui table.model tr,
+.swagger-ui table.model td {
+  color: var(--text) !important;
+}
+
+.swagger-ui .model .property {
+  color: var(--text) !important;
+}
+
+.swagger-ui .model .property .prop-name,
+.swagger-ui .model .property .prop-type {
+  color: var(--text) !important;
+}
+
+.swagger-ui .renderedMarkdown code,
+.swagger-ui .renderedMarkdown pre,
+.swagger-ui .markdown code,
+.swagger-ui .markdown pre {
+  background: rgba(27, 27, 27, 0.94) !important;
+  color: var(--text) !important;
+}
+.swagger-ui section.models { display: none !important; }

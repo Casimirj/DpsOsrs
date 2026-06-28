@@ -1,5 +1,7 @@
 from app.Controllers.Models.calculate_hit import CalculateHitInput
 from app.Monsters import Bloat, Maiden, P1Verzik, P2Verzik, P3Verzik, Sotetseg, Xarpus
+from app.Loadouts import OathTorvaRancour
+from app.Weapons.Scythe import Scythe
 
 
 MONSTER_CLASSES = {
@@ -24,4 +26,13 @@ def calculate_hit_damage(payload: CalculateHitInput) -> tuple[int, int]:
     if payload.monster.reduce_defense:
         monster.stats.def_level = int(payload.monster.defense)
 
-    return payload.scale, monster.stats.def_level
+    weapon_name = payload.weapon
+
+    if weapon_name == "Scythe of Vitur":
+        player = OathTorvaRancour.player
+        player.equip_weapon(Scythe())
+        damage = player.do_attack(monster)
+    else:
+        damage = payload.scale
+
+    return damage, monster.stats.def_level

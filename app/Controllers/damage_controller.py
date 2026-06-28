@@ -37,6 +37,18 @@ def calculate_hit(
         ...,
         openapi_examples={
             "default": {
+                "summary": "Scythe Maiden",
+                "value": {
+                    "Weapon": "Scythe of Vitur",
+                    "Monster": {
+                        "Name": "Maiden",
+                        "ReduceDefense": True,
+                        "Defense": 80,
+                    },
+                    "Scale": 3,
+                },
+            },
+            "tbow_maiden": {
                 "summary": "Tbow Maiden",
                 "value": {
                     "Weapon": "Twisted Bow",
@@ -66,10 +78,23 @@ if not Config.is_prod:
         html = get_swagger_ui_html(
             openapi_url=openapi_url,
             title=f"{app.title} - Swagger UI",
-            swagger_ui_parameters={"tryItOutEnabled": True},
+            swagger_ui_parameters={"tryItOutEnabled": True, "displayRequestDuration": True},
         )
         dark_css = CSS_PATH.read_text(encoding="utf-8")
+        js = """
+        <script>
+        const obs = new MutationObserver(() => {
+            const dur = document.querySelector('.response-duration');
+            const wrapper = document.querySelector('.responses-wrapper');
+            if (!dur || !wrapper) return;
+            if (wrapper.previousElementSibling === dur) return;
+            dur.remove();
+            wrapper.parentElement.insertBefore(dur, wrapper);
+        });
+        obs.observe(document.body, { childList: true, subtree: true });
+        </script>
+        """
         style_tag = f"<style>{dark_css}</style>"
         body = html.body or b""
-        content = body.decode("utf-8").replace("</head>", f"{style_tag}</head>")
+        content = body.decode("utf-8").replace("</head>", f"{style_tag}{js}</head>")
         return HTMLResponse(content=content)

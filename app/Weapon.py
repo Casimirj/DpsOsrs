@@ -44,14 +44,16 @@ class Weapon():
 
 
     def do_attack(self, max_hit, player_attack_roll, npc_def_roll):
-        hit_att_roll = random.randint(1, player_attack_roll)
-        hit_def_roll = random.randint(1, npc_def_roll)
-
-        # assuming att_roll == def_roll is a hit
-        if(hit_att_roll < hit_def_roll):
-            return 0
+        # OSRS hit chance formula from the wiki DPS pages
+        if player_attack_roll > npc_def_roll:
+            hit_chance = 1 - (npc_def_roll + 2) / (2 * (player_attack_roll + 1))
         else:
+            hit_chance = player_attack_roll / (2 * (npc_def_roll + 1))
+
+        if(random.random() < hit_chance):
             return random.randint(1, max_hit)
+        else:
+            return 0
 
 
     def do_special_attack(self, max_hit:int, player_attack_roll:int, npc_def_roll:int, monster:NPC=None):
